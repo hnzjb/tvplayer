@@ -1,27 +1,27 @@
-﻿浙江移动,#genre#
-CCTV1,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls
-CCTV2,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/42329899.smil/index.m3u8?fmt=ts2hls
-CCTV3,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/341734363.smil/index.m3u8?fmt=ts2hls
-CCTV4,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/114276458.smil/index.m3u8?fmt=ts2hls
-CCTV5,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/341733164.smil/index.m3u8?fmt=ts2hls
+﻿浙江移动,#流派#
+CCTV1，http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls
+CCTV2，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/42329899.smil/index.m3u8?fmt=ts2hls
+CCTV3，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/341734363.smil/index.m3u8?fmt=ts2hls
+CCTV4，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/114276458.smil/index.m3u8?fmt=ts2hls
+CCTV5，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/341733164.smil/index.m3u8?fmt=ts2hls
 CCTV5+,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/42612910.smil/index.m3u8?fmt=ts2hls
-CCTV6,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/341734307.smil/index.m3u8?fmt=ts2hls
-CCTV7,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/42329865.smil/index.m3u8?fmt=ts2hls
-CCTV8,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232645/341734473.smil/index.m3u8?fmt=ts2hls
-CCTV9,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342/42329996.smil/index.m3u8?fmt=ts2hls
-CCTV10,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228327/42329895.smil/index.m3u8?fmt=ts2hls
-CCTV11,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232449/312776616.smil/index.m3u8?fmt=ts2hls
-CCTV12,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/42329831.smil/index.m3u8?fmt=ts2hls
-CCTV13,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/224624642.smil/index.m3u8?fmt=ts2hls
-CCTV14,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/42329999.smil/index.m3u8?fmt=ts2hls
-CCTV15,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228281/42329182.smil/index.m3u8?fmt=ts2hls
-CCTV16,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/382070497.smil/index.m3u8?fmt=ts2hls
-CCTV17,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/117317448.smil/index.m3u8?fmt=ts2hls
+CCTV6，http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/341734307.smil/index.m3u8?fmt=ts2hls
+CCTV7，http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/42329865.smil/index.m3u8?fmt=ts2hls
+CCTV8，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232645/341734473.smil/index.m3u8?fmt=ts2hls
+CCTV9，http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342/42329996.smil/index.m3u8?fmt=ts2hls
+CCTV10，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228327/42329895.smil/index.m3u8?fmt=ts2hls
+CCTV11，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232449/312776616.smil/index.m3u8?fmt=ts2hls
+CCTV12，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/42329831.smil/index.m3u8?fmt=ts2hls
+CCTV13，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/224624642.smil/index.m3u8?fmt=ts2hls
+CCTV14，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/42329999.smil/index.m3u8?fmt=ts2hls
+CCTV15，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228281/42329182.smil/index.m3u8?fmt=ts2hls
+CCTV16，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/382070497.smil/index.m3u8?fmt=ts2hls
+CCTV17，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/117317448.smil/index.m3u8?fmt=ts2hls
 
 浙江卫视,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/42329891.smil/index.m3u8?fmt=ts2hls
 湖南卫视,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/42329937.smil/index.m3u8?fmt=ts2hls
 东方卫视,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228354/42329929.smil/index.m3u8?fmt=ts2hls
-江苏卫视,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/42329921.smil/index.m3u8?fmt=ts2hls
+江苏卫视，http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/42329921.smil/index.m3u8?fmt=ts2hls
 北京卫视,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/42329925.smil/index.m3u8?fmt=ts2hls
 深圳卫视,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228314/42329941.smil/index.m3u8?fmt=ts2hls
 广东卫视,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228329/42329945.smil/index.m3u8?fmt=ts2hls
@@ -44,7 +44,7 @@ CCTV17,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122976
 浙江少儿频道,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/396328929.smil/index.m3u8?fmt=ts2hls
 浙江公共新闻,http://http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/396328936.smil/index.m3u8?fmt=ts2hls  
    
-央视,#genre#
+央视,#流派#
 CCTV1,http://119.54.3.15:9999/hls/1/index.m3u8$JiLingLTJD
 CCTV2,http://119.54.3.15:9999/hls/2/index.m3u8$JiLingLTJD
 CCTV3,http://119.54.3.15:9999/hls/3/index.m3u8$JiLingLTJD
@@ -66,45 +66,46 @@ CCTV17,http://119.54.3.15:9999/hls/17/index.m3u8$JiLingLTJD
 
 
 
-CCTV1,http://183.29.197.72:8686/udp/239.77.1.17:5146$GangDongDXZB
-CCTV2,http://183.29.197.72:8686/udp/239.77.1.158:5146$GangDongDXZB
-CCTV3,http://183.29.197.72:8686/udp/239.77.0.169:5146$GangDongDXZB
-CCTV4,http://183.29.197.72:8686/udp/239.77.1.163:5146$GangDongDXZB
-CCTV5,http://183.29.197.72:8686/udp/239.77.0.170:5146$GangDongDXZB
-CCTV5+,http://183.29.197.72:8686/udp/239.77.0.87:5146$GangDongDXZB
-CCTV6,http://183.29.197.72:8686/udp/239.77.0.171:5146$GangDongDXZB
-CCTV7,http://183.29.197.72:8686/udp/239.77.1.159:5146$GangDongDXZB
-CCTV8,http://183.29.197.72:8686/udp/239.77.0.172:5146$GangDongDXZB
-CCTV9,http://183.29.197.72:8686/udp/239.77.1.160:5146$GangDongDXZB
-CCTV10,http://183.29.197.72:8686/udp/239.77.1.113:5146$GangDongDXZB
-CCTV11,http://183.29.197.72:8686/udp/239.77.1.238:5146$GangDongDXZB
-CCTV12,http://183.29.197.72:8686/udp/239.77.1.109:5146$GangDongDXZB
-CCTV13,http://183.29.197.72:8686/udp/239.253.43.196:5146$GangDongDXZB
-CCTV14,http://183.29.197.72:8686/udp/239.77.1.161:5146$GangDongDXZB
-CCTV15,http://183.29.197.72:8686/udp/239.77.1.239:5146$GangDongDXZB
-CCTV16,http://183.29.197.72:8686/udp/239.77.0.165:5146$GangDongDXZB
-CCTV17,http://183.29.197.72:8686/udp/239.77.1.121:5146$GangDongDXZB
-CCTV4K,http://183.29.197.72:8686/udp/239.77.0.194:5146$GangDongDXZB
+CCTV1,http://61.240.228.5:8889/udp/228.1.1.1:6001$HuNanLTZB
+CCTV2,http://61.240.228.5:8889/udp/228.1.1.2:6002$HuNanLTZB
+CCTV3,http://61.240.228.5:8889/udp/228.1.1.3:6003$HuNanLTZB
+CCTV4,http://61.240.228.5:8889/udp/228.1.1.40:6040$HuNanLTZB
+CCTV5,http://61.240.228.5:8889/udp/228.1.1.5:6005$HuNanLTZB
+CCTV5+,http://61.240.228.5:8889/udp/228.1.1.4:6004$HuNanLTZB
+CCTV6,http://61.240.228.5:8889/udp/228.1.1.6:6006$HuNanLTZB
+CCTV7,http://61.240.228.5:8889/udp/228.1.1.118:6118$HuNanLTZB
+CCTV8,http://61.240.228.5:8889/udp/228.1.1.8:6008$HuNanLTZB
+CCTV9,http://61.240.228.5:8889/udp/228.1.1.9:6009$HuNanLTZB
+CCTV10,http://61.240.228.5:8889/udp/228.1.1.10:6010$HuNanLTZB
+CCTV11,http://61.240.228.5:8889/udp/228.1.1.41:6041$HuNanLTZB
+CCTV12,http://61.240.228.5:8889/udp/228.1.1.11:6011$HuNanLTZB
+CCTV13,http://61.240.228.5:8889/udp/228.1.1.42:6042$HuNanLTZB
+CCTV14,http://61.240.228.5:8889/udp/228.1.1.12:6012$HuNanLTZB
+CCTV15，http://61.240.228.5:8889/udp/228.1.1.43:6043$HuNanLTZB
+CCTV16,http://61.240.228.5:8889/udp/228.1.1.110:6110$HuNanLTZB
+CCTV16,http://61.240.228.5:8889/udp/228.1.1.131:6131$HuNanLTZB(4K)
+CCTV17,http://61.240.228.5:8889/udp/228.1.1.7:6007$HuNanLTZB
+CCTV4K,http://61.240.228.5:8889/udp/228.1.1.175:6175$HuNanLTZB
 
-CCTV1,http://218.241.192.50:8808/udp/239.3.1.129:8008$BJLTZB
-CCTV2,http://218.241.192.50:8808/udp/239.3.1.60:8084$BJLTZB
-CCTV3,http://218.241.192.50:8808/udp/239.3.1.172:8001$BJLTZB
-CCTV4,http://218.241.192.50:8808/udp/239.3.1.105:8092$BJLTZB
-CCTV5,http://218.241.192.50:8808/udp/239.3.1.173:8001$BJLTZB
+CCTV1，http://218.241.192.50:8808/udp/239.3.1.129:8008$BJLTZB
+CCTV2，http://218.241.192.50:8808/udp/239.3.1.60:8084$BJLTZB
+CCTV3，http://218.241.192.50:8808/udp/239.3.1.172:8001$BJLTZB
+CCTV4，http://218.241.192.50:8808/udp/239.3.1.105:8092$BJLTZB
+CCTV5，http://218.241.192.50:8808/udp/239.3.1.173:8001$BJLTZB
 CCTV5+,http://218.241.192.50:8808/udp/239.3.1.130:8004$BJLTZB
 CCTV6,http://218.241.192.50:8808/udp/239.3.1.174:8001$BJLTZB
-CCTV7,http://218.241.192.50:8808/udp/239.3.1.61:8104$BJLTZB
-CCTV8,http://218.241.192.50:8808/udp/239.3.1.175:8001$BJLTZB
+CCTV7，http://218.241.192.50:8808/udp/239.3.1.61:8104$BJLTZB
+CCTV8，http://218.241.192.50:8808/udp/239.3.1.175:8001$BJLTZB
 CCTV9,http://218.241.192.50:8808/udp/239.3.1.62:8112$BJLTZB
-CCTV10,http://218.241.192.50:8808/udp/239.3.1.63:8116$BJLTZB
-CCTV11,http://218.241.192.50:8808/udp/239.3.1.152:8120$BJLTZB
-CCTV12,http://218.241.192.50:8808/udp/239.3.1.64:8124$BJLTZB
-CCTV13,http://218.241.192.50:8808/udp/239.3.1.124:8128$BJLTZB
-CCTV14,http://218.241.192.50:8808/udp/239.3.1.65:8132$BJLTZB
-CCTV15,http://218.241.192.50:8808/udp/239.3.1.153:8136$BJLTZB
+CCTV10，http://218.241.192.50:8808/udp/239.3.1.63:8116$BJLTZB
+CCTV11，http://218.241.192.50:8808/udp/239.3.1.152:8120$BJLTZB
+CCTV12，http://218.241.192.50:8808/udp/239.3.1.64:8124$BJLTZB
+CCTV13，http://218.241.192.50:8808/udp/239.3.1.124:8128$BJLTZB
+CCTV14，http://218.241.192.50:8808/udp/239.3.1.65:8132$BJLTZB
+CCTV15，http://218.241.192.50:8808/udp/239.3.1.153:8136$BJLTZB
 CCTV16,http://218.241.192.50:8808/udp/239.3.1.184:8001$BJLTZB
-CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144$BJLTZB
-卫视,#genre#
+CCTV17，http://218.241.192.50:8808/udp/239.3.1.151:8144$BJLTZB
+卫视,#流派#
 北京卫视,http://119.54.3.15:9999/hls/30/index.m3u8$JiLingLTJD
 东方卫视,http://119.54.3.15:9999/hls/31/index.m3u8$JiLingLTJD
 江苏卫视,http://119.54.3.15:9999/hls/32/index.m3u8$JiLingLTJD
@@ -132,28 +133,23 @@ CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144$BJLTZB
 
 
 
-浙江卫视,http://183.29.197.72:8686/udp/239.77.1.33:5146$GangDongDXZB
-北京卫视,http://183.29.197.72:8686/udp/239.77.1.4:5146$GangDongDXZB
-东方卫视,http://183.29.197.72:8686/udp/239.77.1.218:5146$GangDongDXZB
-江苏卫视,http://183.29.197.72:8686/udp/239.77.1.18:5146$GangDongDXZB
-东南卫视,http://183.29.197.72:8686/udp/239.77.1.104:5146$GangDongDXZB
-湖南卫视,http://183.29.197.72:8686/udp/239.77.1.5:5146$GangDongDXZB
-深圳卫视,http://183.29.197.72:8686/udp/239.77.1.3:5146$GangDongDXZB
-广东卫视,http://183.29.197.72:8686/udp/239.77.1.19:5146$GangDongDXZB
-安徽卫视,http://183.29.197.72:8686/udp/239.77.1.92:5146$GangDongDXZB
-天津卫视,http://183.29.197.72:8686/udp/239.77.1.141:5146$GangDongDXZB
-山东卫视,http://183.29.197.72:8686/udp/239.77.1.142:5146$GangDongDXZB
-江西卫视,http://183.29.197.72:8686/udp/239.77.1.219:5146$GangDongDXZB
-湖北卫视,http://183.29.197.72:8686/udp/239.77.1.93:5146$GangDongDXZB
-辽宁卫视,http://183.29.197.72:8686/udp/239.77.1.103:5146$GangDongDXZB
-贵州卫视,http://183.29.197.72:8686/udp/239.77.1.221:5146$GangDongDXZB
-四川卫视,http://183.29.197.72:8686/udp/239.77.1.215:5146$GangDongDXZB
-河南卫视,http://183.29.197.72:8686/udp/239.77.1.229:5146$GangDongDXZB
-云南卫视,http://183.29.197.72:8686/udp/239.253.43.37:5146$GangDongDXZB
-重庆卫视,http://183.29.197.72:8686/udp/239.77.1.162:5146$GangDongDXZB
-河北卫视,http://183.29.197.72:8686/udp/239.77.1.214:5146$GangDongDXZB
-黑龙江卫视,http://183.29.197.72:8686/udp/239.77.1.6:5146$GangDongDXZB
-大湾区卫视,http://183.29.197.72:8686/udp/239.77.0.215:5146$GangDongDXZB
+浙江卫视,http://61.240.228.5:8889/udp/228.1.1.25:6025$HuNanLTZB
+北京卫视,http://61.240.228.5:8889/udp/228.1.1.23:6023$HuNanLTZB
+江苏卫视,http://61.240.228.5:8889/udp/228.1.1.26:6026$HuNanLTZB
+东方卫视,http://61.240.228.5:8889/udp/228.1.1.28:6028$HuNanLTZB
+广东卫视,http://61.240.228.5:8889/udp/228.1.1.27:6027$HuNanLTZB
+深圳卫视,http://61.240.228.5:8889/udp/228.1.1.24:6024$HuNanLTZB
+天津卫视,http://61.240.228.5:8889/udp/228.1.1.34:6034$HuNanLTZB
+山东卫视,http://61.240.228.5:8889/udp/228.1.1.32:6032$HuNanLTZB
+湖北卫视,http://61.240.228.5:8889/udp/228.1.1.29:6029$HuNanLTZB
+安徽卫视,http://61.240.228.5:8889/udp/228.1.1.30:6030$HuNanLTZB
+重庆卫视,http://61.240.228.5:8889/udp/228.1.1.35:6035$HuNanLTZB
+黑龙江卫视,http://61.240.228.5:8889/udp/228.1.1.33:6033$HuNanLTZB
+辽宁卫视,http://61.240.228.5:8889/udp/228.1.1.31:6031$HuNanLTZB
+四川卫视,http://61.240.228.5:8889/udp/228.1.1.36:6036$HuNanLTZB
+河北卫视,http://61.240.228.5:8889/udp/228.1.1.39:6039$HuNanLTZB
+江西卫视,http://61.240.228.5:8889/udp/228.1.1.38:6038$HuNanLTZB
+吉林卫视,http://61.240.228.5:8889/udp/228.1.1.119:6119$HuNanLTZB
 
 
 
@@ -176,7 +172,7 @@ CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144$BJLTZB
 深圳卫视,http://218.241.192.50:8808/udp/239.3.1.134:8020$BJLTZB
 吉林卫视,http://218.241.192.50:8808/udp/239.3.1.240:8172$BJLTZB
 黑龙江卫视,http://218.241.192.50:8808/udp/239.3.1.133:8016$BJLTZB
-港澳台,#genre#
+港澳台,#流派#
 凤凰中文,http://my6.x3322.net:9900/udp/239.93.0.162:2192$四川DXZB
 凤凰资讯,http://my6.x3322.net:9900/udp/239.93.0.118:2191$四川DXZB
 
@@ -184,36 +180,36 @@ CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144$BJLTZB
 凤凰资讯,http://110.72.71.96:808/hls/1/index.m3u8$GXJD
 凤凰香港,http://110.72.71.96:808/hls/333/index.m3u8$GXJD
 
-凤凰资讯,http://113.64.145.200:8081/hls/36/index.m3u8$GangDongJD
-凤凰中文,http://113.64.145.200:8081/hls/37/index.m3u8$GangDongJD
-凤凰香港,http://113.64.145.200:8081/hls/38/index.m3u8$GangDongJD
+凤凰资讯,http://113.64.145.200:8081/hls/36/index.m3u8$港动京东
+凤凰中文,http://113.64.145.200:8081/hls/37/index.m3u8$港动JD
+凤凰香港,http://113.64.145.200:8081/hls/38/index.m3u8$港东京东
 
 
 龙祥电影,http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
 东森电影,http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
 龙华电影,http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv
-好莱坞电影,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
+好莱坞电影，http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
 
 
 
-中数,#genre#
+中数,#流派#
 电视指南,http://119.54.3.15:9999/hls/87/index.m3u8$JiLingLTJD
 央视精品,http://119.54.3.15:9999/hls/81/index.m3u8$JiLingLTJD
 女性时尚,http://119.54.3.15:9999/hls/73/index.m3u8$JiLingLTJD
 第一剧场,http://119.54.3.15:9999/hls/75/index.m3u8$JiLingLTJD
-世界地理,http://119.54.3.15:9999/hls/76/index.m3u8$JiLingLTJD
+世界地理，http://119.54.3.15:9999/hls/76/index.m3u8$JiLingLTJD
 风云足球,http://119.54.3.15:9999/hls/77/index.m3u8$JiLingLTJD
 央视台球,http://119.54.3.15:9999/hls/78/index.m3u8$JiLingLTJD
 风云音乐,http://119.54.3.15:9999/hls/79/index.m3u8$JiLingLTJD
 怀旧剧场,http://119.54.3.15:9999/hls/80/index.m3u8$JiLingLTJD
 兵器科技,http://119.54.3.15:9999/hls/82/index.m3u8$JiLingLTJD
 风云剧场,http://119.54.3.15:9999/hls/86/index.m3u8$JiLingLTJD
-卫生健康,http://119.54.3.15:9999/hls/88/index.m3u8$JiLingLTJD
+卫生健康，http://119.54.3.15:9999/hls/88/index.m3u8$JiLingLTJD
 高尔夫网球,http://119.54.3.15:9999/hls/89/index.m3u8$JiLingLTJD
 
 电视指南,http://gzly.softether.net:6005/udp/239.252.219.97:5140$JiangXiDXZB
 央视精品,http://gzly.softether.net:6005/udp/239.252.219.81:5140$JiangXiDXZB
-世界地理,http://gzly.softether.net:6005/udp/239.252.219.93:5140$JiangXiDXZB
+世界地理，http://gzly.softether.net:6005/udp/239.252.219.93:5140$JiangXiDXZB
 兵器科技,http://gzly.softether.net:6005/udp/239.252.219.98:5140$JiangXiDXZB
 风云音乐,http://gzly.softether.net:6005/udp/239.252.219.87:5140$JiangXiDXZB
 第一剧场,http://gzly.softether.net:6005/udp/239.252.219.86:5140$JiangXiDXZB
@@ -224,7 +220,7 @@ CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144$BJLTZB
 风云足球,http://gzly.softether.net:6005/udp/239.252.219.96:5140$JiangXiDXZB
 央视台球,http://gzly.softether.net:6005/udp/239.252.219.80:5140$JiangXiDXZB
 
-北京,#genre#
+北京,#流派#
 北京文艺,http://218.241.192.50:8808/udp/239.3.1.242:8000$BJLTZB
 北京纪实科教,http://218.241.192.50:8808/udp/239.3.1.115:8000$BJLTZB
 北京影视,http://218.241.192.50:8808/udp/239.3.1.158:8000$BJLTZB
@@ -238,7 +234,7 @@ CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144$BJLTZB
 北京IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001$BJLTZB
 北京IPTV淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001$BJLTZB
 北京IPTV淘精彩,http://218.241.192.50:8808/udp/239.3.1.178:8001$BJLTZB
-北京IPTV淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001$BJLTZB
+北京IPTV淘宝贝,http://218.241.192.50:8808/udp/239.3.1.238:8001$BJLTZB
 北京IPTV萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001$BJLTZB
 
 北京文艺,http://1.203.184.77:4000/udp/225.1.8.22:8002$BJdxZB
@@ -258,81 +254,81 @@ CCTV17,http://218.241.192.50:8808/udp/239.3.1.151:8144$BJLTZB
 北京IPTV萌宠TV,http://1.203.184.77:4000/udp/225.1.8.63:8002$BJdxZB
 北京IPTV4K,http://1.203.184.77:4000/udp/225.1.8.211:8002$BJdxZB
 
-上海,#genre#
-上海新闻综合,http://116.227.194.183:4022/udp/239.45.3.209:5140
+上海,#流派#
+上海新闻综合，http://116.227.194.183:4022/udp/239.45.3.209:5140
 东方都市,http://116.227.194.183:4022/udp/239.45.3.236:5140
-上海东方影视,http://116.227.194.183:4022/udp/239.45.3.237:5140
-第一财经,http://116.227.194.183:4022/udp/239.45.3.211:5140
-五星体育,http://116.227.194.183:4022/udp/239.45.3.210:5140
+上海东方影视，http://116.227.194.183:4022/udp/239.45.3.237:5140
+第一财经，http://116.227.194.183:4022/udp/239.45.3.211:5140
+五星体育，http://116.227.194.183:4022/udp/239.45.3.210:5140
 都市剧场,http://116.227.194.183:4022/udp/239.45.3.136:5140
 欢笑剧场,http://116.227.194.183:4022/udp/239.45.3.196:5140
 全纪实,http://116.227.194.183:4022/udp/239.45.3.135:5140
-生活时尚,http://116.227.194.183:4022/udp/239.45.3.132:5140
-纪实人文,http://116.227.194.183:4022/udp/239.45.3.212:5140
+生活时尚，http://116.227.194.183:4022/udp/239.45.3.132:5140
+纪实人文，http://116.227.194.183:4022/udp/239.45.3.212:5140
 东方财经,http://116.227.194.183:4022/udp/239.45.1.119:5140
-七彩戏剧,http://116.227.194.183:4022/udp/239.45.3.61:5140
-法治天地,http://116.227.194.183:4022/udp/239.45.1.46:5140
+七彩戏剧，http://116.227.194.183:4022/udp/239.45.3.61:5140
+外汇天地,http://116.227.194.183:4022/udp/239.45.1.46:5140
 金鹰纪实,http://116.227.194.183:4022/udp/239.45.1.45:5140
 劲爆体育,http://61.240.228.5:8889/udp/228.1.1.79:6079
-浙江,#genre#
+浙江,#流派#
 钱江频道,http://125.125.56.55:8889/rtp/233.50.201.132:5140
-浙江民生,http://125.125.56.55:8889/rtp/233.50.201.136:5140
-浙江经济生活,http://125.125.56.55:8889/rtp/233.50.201.133:5140
+浙江民生，http://125.125.56.55:8889/rtp/233.50.201.136:5140
+浙江经济生活，http://125.125.56.55:8889/rtp/233.50.201.133:5140
 浙江教育,http://125.125.56.55:8889/rtp/233.50.201.134:5140
 浙江新闻,http://125.125.56.55:8889/rtp/233.50.201.137:5140
 浙江少儿,http://125.125.56.55:8889/rtp/233.50.201.138:5140
-宁波TV1,http://125.125.56.55:8889/rtp/233.50.201.168:5140
-宁波TV2,http://125.125.56.55:8889/rtp/233.50.201.178:5140
-宁波TV3,http://125.125.56.55:8889/rtp/233.50.201.179:5140
-宁波TV4,http://125.125.56.55:8889/rtp/233.50.201.180:5140
+宁波卫视1，http://125.125.56.55:8889/rtp/233.50.201.168:5140
+宁波TV2，http://125.125.56.55:8889/rtp/233.50.201.178:5140
+宁波TV3，http://125.125.56.55:8889/rtp/233.50.201.179:5140
+宁波TV4，http://125.125.56.55:8889/rtp/233.50.201.180:5140
 
-影视娱乐,#genre#
-CHC动作电影,http://119.54.3.15:9999/hls/90/index.m3u8$JiLingLTJD
-CHC高清电影,http://119.54.3.15:9999/hls/91/index.m3u8$JiLingLTJD
+影视娱乐,#流派#
+CHC动作电影，http://119.54.3.15:9999/hls/90/index.m3u8$JiLingLTJD
+CHC电影,http://119.54.3.15:9999/hls/91/index.m3u8$JiLingLTJD
 CHC家庭影院,http://119.54.3.15:9999/hls/92/index.m3u8$JiLingLTJD
 
 
 
 CHC高清电影,http://gzly.softether.net:6005/udp/239.252.219.83:5140$JiangXiDXZB
 CHC家庭影院,http://gzly.softether.net:6005/udp/239.252.219.84:5140$JiangXiDXZB
-CHC动作电影,http://gzly.softether.net:6005/udp/239.252.219.85:5140$JiangXiDXZB
+CHC动作电影，http://gzly.softether.net:6005/udp/239.252.219.85:5140$JiangXiDXZB
 
-快乐垂钓,http://61.240.228.5:8889/udp/228.1.1.98:6098
-茶频道,http://61.240.228.5:8889/udp/228.1.1.120:6120
+快乐垂钓,http://61.240.228.5:8889/udp/228.1.1.98:6098$HuNanLTZB
+茶频道，http://61.240.228.5:8889/udp/228.1.1.120:6120$HuNanLTZB
 茶频道,http://218.241.192.50:8808/udp/239.3.1.165:8001$BJLTZB
 快乐垂钓,http://218.241.192.50:8808/udp/239.3.1.164:8001$BJLTZB
 南国都市,http://183.29.197.72:8686/udp/239.253.43.99:5146$GangDongDXZB
 求索记录,http://61.240.228.5:8889/udp/228.1.1.107:6107$HuNanLT
-求索生活,http://61.240.228.5:8889/udp/228.1.1.102:6102$HuNanLT
+求索生活，http://61.240.228.5:8889/udp/228.1.1.102:6102$HuNanLT
 求索科学,http://61.240.228.5:8889/udp/228.1.1.104:6104$HuNanLT
 
-HOT,#genre#
+热门，#流派#
 爱怀旧,http://my6.x3322.net:9900/udp/239.93.42.21:5140$四川DXZB
 爱喜剧,http://my6.x3322.net:9900/udp/239.93.42.9:5140$四川DXZB
 爱奇谈,http://my6.x3322.net:9900/udp/239.93.42.22:5140$四川DXZB
 爱科幻,http://my6.x3322.net:9900/udp/239.93.42.10:5140$四川DXZB
 爱院线,http://my6.x3322.net:9900/udp/239.93.42.11:5140$四川DXZB
-爱谍战,http://my6.x3322.net:9900/udp/239.93.42.14:5140$四川DXZB
+爱电视剧,http://my6.x3322.net:9900/udp/239.93.42.14:5140$四川DXZB
 爱经典,http://my6.x3322.net:9900/udp/239.93.42.13:5140$四川DXZB
 爱悬疑,http://my6.x3322.net:9900/udp/239.93.42.12:5140$四川DXZB
 爱青春,http://my6.x3322.net:9900/udp/239.93.42.16:5140$四川DXZB
 爱幼教,http://my6.x3322.net:9900/udp/239.93.42.17:5140$四川DXZB
 爱玩具,http://my6.x3322.net:9900/udp/239.93.42.18:5140$四川DXZB
-爱动漫,http://my6.x3322.net:9900/udp/239.93.42.23:5140$四川DXZB
+爱情动漫,http://my6.x3322.net:9900/udp/239.93.42.23:5140$四川DXZB
 爱电竞,http://my6.x3322.net:9900/udp/239.93.42.19:5140$四川DXZB
 爱赛车,http://my6.x3322.net:9900/udp/239.93.42.20:5140$四川DXZB
-NewTV,#genre#
-NewTV金牌综艺,http://183.221.31.230:4088//udp/239.11.0.152:5140$四川YDZB
-NewTV中国功夫,http://183.221.31.230:4088//udp/239.11.0.151:5140$四川YDZB
-NewTV精品大剧,http://183.221.31.230:4088//udp/239.11.0.150:5140$四川YDZB
-NewTV爱情喜剧,http://183.221.31.230:4088//udp/239.11.0.149:5140$四川YDZB
-NewTV惊悚悬疑,http://183.221.31.230:4088//udp/239.11.0.144:5140$四川YDZB
-NewTV军旅剧场,http://183.221.31.230:4088//udp/239.11.0.143:5140$四川YDZB
+新电视，#流派#
+新电视台金牌综艺,http://183.221.31.230:4088//udp/239.11.0.152:5140$四川YDZB
+新电视中国功夫,http://183.221.31.230:4088//udp/239.11.0.151:5140$四川YDZB
+新电视精品大剧,http://183.221.31.230:4088//udp/239.11.0.150:5140$四川YDZB
+新电视爱情喜剧,http://183.221.31.230:4088//udp/239.11.0.149:5140$四川YDZB
+NewTV惊关注悬疑，http://183.221.31.230:4088//udp/239.11.0.144:5140$四川YDZB
+新电视军旅剧场,http://183.221.31.230:4088//udp/239.11.0.143:5140$四川YDZB
 NewTV动作电影,http://183.221.31.230:4088//udp/239.11.0.142:5140$四川YDZB
 NewTV古装剧场,http://183.221.31.230:4088//udp/239.11.0.141:5140$四川YDZB
-NewTV农业致富,http://183.221.31.230:4088//udp/239.11.0.137:5140$四川YDZB
-NewTV军事评论,http://183.221.31.230:4088//udp/239.11.0.136:5140$四川YDZB
-NewTV精品体育,http://183.221.31.230:4088//udp/239.11.0.134:5140$四川YDZB
-NewTV健康有约,http://183.221.31.230:4088//udp/239.11.0.133:5140$四川YDZB
+新电视农业致富,http://183.221.31.230:4088//udp/239.11.0.137:5140$四川YDZB
+新电视军事评论,http://183.221.31.230:4088//udp/239.11.0.136:5140$四川YDZB
+新电视精品体育,http://183.221.31.230:4088//udp/239.11.0.134:5140$四川YDZB
+新电视健康有约,http://183.221.31.230:4088//udp/239.11.0.133:5140$四川YDZB
 NewTV家庭剧场,http://183.221.31.230:4088//udp/239.11.0.131:5140$四川YDZB
 NewTV精品记录,http://183.221.31.230:4088//udp/239.11.0.132:5140$四川YDZB
