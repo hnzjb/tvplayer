@@ -1,4 +1,4 @@
-﻿   央视,#流派#
+﻿   央视,#genre#
 
 CCTV1,http://gzly.softether.net:6005/udp/239.252.219.200:5140$江西电信组播
 CCTV2,http://gzly.softether.net:6005/udp/239.252.220.183:5140$江西电信组播
