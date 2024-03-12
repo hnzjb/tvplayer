@@ -22,7 +22,7 @@
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"https://gitee.com/hnzjb/tvplayer/raw/master/ystvy/spider.jar"},
 {"key":"云播","name":"云播","type":3,"api":"csp_Skapp","ext":"https://gitee.com/hnzjb/tvplayer/raw/master/ystvy/%E4%BA%91%E6%92%AD","jar":"https://gitee.com/hnzjb/tvplayer/raw/master/ystvy/spider.jar"},
-{"key":"胡胡","name":"胡胡","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/hnzjb/tvplayer/raw/master/ystvy/spider.jar"},
+
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hnzjb/tvplayer/raw/master/ystvy/spider.jar"},
 
 
@@ -38,15 +38,6 @@
 
 
 
-{"key": "csp_xBPQ_九八",
-"name": "🎦九八┃秒播",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://gitee.com/hnzjb/tvplayer/raw/master/TianTianKaiXin/98.json",
-"jar":"https://gitee.com/hnzjb/tvplayer/raw/master/TianTianKaiXin/tiantiankaixin.jar"},
 
 {"key": "熊掌",
 "name": "🎦熊掌┃秒播",
@@ -76,14 +67,7 @@
 
 
 
-{"key":"量子资源",
-"name":"👔量子资源",
-"type":1,
-"api":"http://cj.lziapi.com/api.php/provide/vod/",
-"m3u8ads": "hd.youyhn.com",
-"searchable":1,
-"quickSearch":1,
-"changeable": 1},
+
 
 
 
@@ -225,7 +209,7 @@
 
 
 
-"parses": [{
+"parses":[{
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
@@ -233,19 +217,7 @@
 		"name": "Json聚合",
 		"type": 3,
 		"url": "Demo"
-	}, 
-    
-             {"name": "全看",
-            "type": 0,
-            "url": "https://jx.quankan.app/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-    { "name": "json一", "type": 1, "url": "https://vip.mosangkeji.com/api/?key=q7mSY5L8ssbm1J3Eai&url=" },
-    {
+	}, {
 		"name": "777",
 		"type": 0,
 		"url": "https://jx.777jiexi.com/player/?url=",
@@ -267,13 +239,6 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
 		}  
 	}, {
-		"name": "云播",
-		"type": 0,
-		"url": "https://vip.lianfaka.com/vip/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}   
-	}, {
 		"name": "剖云",
 		"type": 0,
 		"url": "https://www.pouyun.com/?url=",
@@ -281,6 +246,7 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
 		}  
 	}],
+
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
