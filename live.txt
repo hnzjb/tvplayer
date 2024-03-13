@@ -274,7 +274,7 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 五星体育,http://a.jack4096.top:10001/udp/239.45.3.210:5140$上海电信组播1
 都市剧场,http://a.jack4096.top:10001/udp/239.45.3.136:5140$上海电信组播1
 欢笑剧场,http://a.jack4096.top:10001/udp/239.45.3.196:5140$上海电信组播1
-全纪实,http://a.jack4096.top:10001/udp/239.45.3.135:5140$上海电信组播1
+乐游,http://a.jack4096.top:10001/udp/239.45.3.135:5140$上海电信组播1
 生活时尚,http://a.jack4096.top:10001/udp/239.45.3.132:5140$上海电信组播1
 纪实人文,http://a.jack4096.top:10001/udp/239.45.3.212:5140$上海电信组播1
 东方财经,http://a.jack4096.top:10001/udp/239.45.1.119:5140$上海电信组播1
@@ -290,7 +290,7 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 五星体育,http://porco.cn:4022/udp/239.45.3.210:5140$上海电信组播2
 都市剧场,http://porco.cn:4022/udp/239.45.3.136:5140$上海电信组播2
 欢笑剧场,http://porco.cn:4022/udp/239.45.3.196:5140$上海电信组播2
-全纪实,http://porco.cn:4022/udp/239.45.3.135:5140$上海电信组播2
+乐游,http://porco.cn:4022/udp/239.45.3.135:5140$上海电信组播2
 生活时尚,http://porco.cn:4022/udp/239.45.3.132:5140$上海电信组播2
 纪实人文,http://porco.cn:4022/udp/239.45.3.212:5140$上海电信组播2
 东方财经,http://porco.cn:4022/udp/239.45.1.119:5140$上海电信组播2
@@ -302,7 +302,7 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 浙江民生,http://mc.myxcwh.com:8125/rtp/233.50.201.136:5140$浙江联通组播1
 浙江经济生活,http://mc.myxcwh.com:8125/rtp/233.50.201.133:5140$浙江联通组播1
 浙江教科影视,http://mc.myxcwh.com:8125/rtp/233.50.201.134:5140$浙江联通组播1
-浙江NEWS,http://mc.myxcwh.com:8125/rtp/233.50.201.137:5140$浙江联通组播1
+浙江新闻,http://mc.myxcwh.com:8125/rtp/233.50.201.137:5140$浙江联通组播1
 浙江少儿,http://mc.myxcwh.com:8125/rtp/233.50.201.138:5140$浙江联通组播1
 宁波TV1,http://mc.myxcwh.com:8125/rtp/233.50.201.168:5140$浙江联通组播1
 宁波TV2,http://mc.myxcwh.com:8125/rtp/233.50.201.178:5140$浙江联通组播1
@@ -313,7 +313,7 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 浙江民生,http://iptv.myxcwh.com:8125/rtp/233.50.201.136:5140$浙江联通组播2
 浙江经济生活,http://iptv.myxcwh.com:8125/rtp/233.50.201.133:5140$浙江联通组播2
 浙江教科影视,http://iptv.myxcwh.com:8125/rtp/233.50.201.134:5140$浙江联通组播2
-浙江NEWS,http://iptv.myxcwh.com:8125/rtp/233.50.201.137:5140$浙江联通组播2
+浙江新闻,http://iptv.myxcwh.com:8125/rtp/233.50.201.137:5140$浙江联通组播2
 浙江少儿,http://iptv.myxcwh.com:8125/rtp/233.50.201.138:5140$浙江联通组播2
 宁波TV1,http://iptv.myxcwh.com:8125/rtp/233.50.201.168:5140$浙江联通组播2
 宁波TV2,http://iptv.myxcwh.com:8125/rtp/233.50.201.178:5140$浙江联通组播2
@@ -324,7 +324,7 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 浙江民生,http://125.125.56.55:8889/rtp/233.50.201.136:5140$浙江电信组播1
 浙江经济生活,http://125.125.56.55:8889/rtp/233.50.201.133:5140$浙江电信组播1
 浙江教科影视,http://125.125.56.55:8889/rtp/233.50.201.134:5140$浙江电信组播1
-浙江NEWS,http://125.125.56.55:8889/rtp/233.50.201.137:5140$浙江电信组播1
+浙江新闻,http://125.125.56.55:8889/rtp/233.50.201.137:5140$浙江电信组播1
 浙江少儿,http://125.125.56.55:8889/rtp/233.50.201.138:5140$浙江电信组播1
 宁波TV1,http://125.125.56.55:8889/rtp/233.50.201.168:5140$浙江电信组播1
 宁波TV2,http://125.125.56.55:8889/rtp/233.50.201.178:5140$浙江电信组播1
@@ -335,7 +335,7 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 浙江民生,http://183.133.104.96:8899/rtp/233.50.201.136:5140$浙江电信组播2
 浙江经济生活,http://183.133.104.96:8899/rtp/233.50.201.133:5140$浙江电信组播2
 浙江教科影视,http://183.133.104.96:8899/rtp/233.50.201.134:5140$浙江电信组播2
-浙江NEWS,http://183.133.104.96:8899/rtp/233.50.201.137:5140$浙江电信组播2
+浙江新闻,http://183.133.104.96:8899/rtp/233.50.201.137:5140$浙江电信组播2
 浙江少儿,http://183.133.104.96:8899/rtp/233.50.201.138:5140$浙江电信组播2
 宁波TV1,http://183.133.104.96:8899/rtp/233.50.201.168:5140$浙江电信组播2
 宁波TV2,http://183.133.104.96:8899/rtp/233.50.201.178:5140$浙江电信组播2
