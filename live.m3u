@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="cctv1" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv1.png" group-title="央视",cctv-1综合
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="cctv2" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv2.png" group-title="央视",cctv-2财经
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="cctv3" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv3.png" group-title="央视",cctv-3综艺
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="cctv4" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv4.png" group-title="央视",cctv-4中文国际
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="cctv5" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv5.png" group-title="央视",cctv-5体育
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="cctv5+" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv5+%20%20.png" group-title="央视",cctv5+体育赛事
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="cctv6" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv6.png" group-title="央视",cctv-6电影
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="cctv7" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv7.png" group-title="央视",cctv-7国防军事
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="cctv8" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv8.png" group-title="央视",cctv-8电视剧
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="cctv9" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv9.png" group-title="央视",cctv-9纪录
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="cctv10" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv10.png" group-title="央视",cctv-10科教
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="cctv11" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv11.png" group-title="央视",cctv-11戏曲
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="cctv12" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv12.png" group-title="央视",cctv-12社会与法
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="cctv13" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv13.png" group-title="央视",cctv-13新闻
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="cctv14" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv14.png" group-title="央视",cctv-14少儿
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="cctv15" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv15.png" group-title="央视",cctv-15音乐
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="cctv16" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv16.png" group-title="央视",cctv奥林匹克频道
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="cctv17" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv17.png" group-title="央视",cctv-17农业农村
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="cctv4K" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshi/cctv4K.png" group-title="央视",cctv4K
+http://159.75.85.63:5679/cctv4k.php
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/zhejiangws.png" group-title="卫视",浙江卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000007275/index.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/beijingws.png" group-title="卫视",北京卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/dongfangws.png" group-title="卫视",东方卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000014098/index.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/jiangsuws.png" group-title="卫视",江苏卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000019351/index.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/hunanws.png" group-title="卫视",湖南卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006692/index.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/anhuiws.png" group-title="卫视",安徽卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000023002/index.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/guangdongws.png" group-title="卫视",广东卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000014694/index.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=3		
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/shandongws.png" group-title="卫视",山东卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000020424/index.m3u8?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/shenzhenws.png" group-title="卫视",深圳卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000007410/index.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/chongqingws.png" group-title="卫视",重庆卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025797/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/liaoningws.png" group-title="卫视",辽宁卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000011671/index.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/hubeiws.png" group-title="卫视",湖北卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000014954/index.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/dongnanws.png" group-title="卫视",东南卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000010584/index.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/tianjinws.png" group-title="卫视",天津卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/weishi/heilongjiangws.png" group-title="卫视",黑龙江卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025203/index.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031118/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000011210/index.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3		
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025843/index.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006119/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031120/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3	
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台",凤凰中文
+http://113.64.145.200:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台",凤凰资讯
+http://113.64.145.200:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港台",凤凰香港
+http://113.64.145.200:8081/hls/38/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVdianshizhinan.png" group-title="央视数字",电视指南
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVwenhuajingpin.png" group-title="央视数字",央视精品
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVdiyijuchang.png" group-title="央视数字",第一剧场
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVhuaijiujuchang.png" group-title="央视数字",怀旧剧场
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVfengyunjuchang.png" group-title="央视数字",风云剧场
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVshijiedili.png" group-title="央视数字",世界地理
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVbingqikeji.png" group-title="央视数字",兵器科技
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVnvxingshishang.png" group-title="央视数字",女性时尚
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVfengyunyinyue.png" group-title="央视数字",风云音乐
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVfengyunzuqiu.png" group-title="央视数字",风云足球
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVcgaoerfu.png" group-title="央视数字",高尔夫网球
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVyangshitaiqiu.png" group-title="央视数字",央视台球
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVweishengjiankang.png" group-title="央视数字",卫生健康
+http://119.54.11.79:9999/hls/88/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/MSXX.png" group-title="浙江",民生休闲
+http://125.125.56.55:8889/rtp/233.50.201.136:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/QJPD.png" group-title="浙江",钱江频道
+http://125.125.56.55:8889/rtp/233.50.201.132:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JJSH.png" group-title="浙江",经济生活
+http://125.125.56.55:8889/rtp/233.50.201.133:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JYKX.png" group-title="浙江",教科影视
+http://125.125.56.55:8889/rtp/233.50.201.134:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJXW.png" group-title="浙江",浙江新闻
+http://125.125.56.55:8889/rtp/233.50.201.137:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJSE.png" group-title="浙江",浙江少儿
+http://125.125.56.55:8889/rtp/233.50.201.138:5140
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/NBTV/NBTV-1.png" group-title="浙江",宁波TV1
+http://125.125.56.55:8889/rtp/233.50.201.168:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/NBTV/NBTV-2.png" group-title="浙江",宁波TV2
+http://125.125.56.55:8889/rtp/233.50.201.178:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/NBTV/NBTV-3.png" group-title="浙江",宁波TV3
+http://125.125.56.55:8889/rtp/233.50.201.179:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/NBTV/NBTV-4.png" group-title="浙江",宁波TV4
+http://125.125.56.55:8889/rtp/233.50.201.180:5140
+
+
+
+
+
+#EXTINF:-1 tvg-id="1984" tvg-name="新闻综合" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/shanghaixinwenzonghe.png" group-title="上海",新闻综合
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="1989" tvg-name="东方都市" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/shanghaidushi.png" group-title="上海",东方都市
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/shanghaidongfangyingshi.png" group-title="上海",东方影视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/diyicaijing.png" group-title="上海",第一财经
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/shanghaiwuxingtiyu.png" group-title="上海",五星体育
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/CHCdongzuo.png" group-title="影视娱乐",CHC动作电影
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/CHCjiating.png" group-title="影视娱乐",CHC家庭电影
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/CHCgaoqing.png" group-title="影视娱乐",CHC高清电影
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/citydushijuchang.png" group-title="影视娱乐",CITY都市剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/heimeidianying.png" group-title="影视娱乐",黑莓电影
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbI
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="影视娱乐",欢笑剧场
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/cunxiang4K.png" group-title="影视娱乐",纯享4K
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="1977" tvg-name="爱上4K" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/as4k.png" group-title="影视娱乐",爱上4K
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/leyou.png" group-title="纪实频道",乐游
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="1988" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪实频道",纪实人文
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="纪实频道",生活时尚
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/JYJS.png" group-title="纪实频道",金鹰纪实
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-id="2025" tvg-name="茶频道" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/chapingdao.png" group-title="纪实频道",茶频道
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3		
+#EXTINF:-1 tvg-id="2025" tvg-name="快乐垂钓" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/kuailecuidiao.png" group-title="纪实频道",快乐垂钓
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3	
+
+#EXTINF:-1 tvg-id="6244" tvg-name="求索纪录" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qiusuopd/QSJL.png" group-title="纪实频道",求索纪录
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qiusuopd/QSKX.png" group-title="纪实频道",求索科学
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qiusuopd/QSSH.png" group-title="纪实频道",求索生活
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qiusuopd/QSDW.png" group-title="纪实频道",求索动物
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+
+
+
+
+
+
