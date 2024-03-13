@@ -1,6 +1,6 @@
 {
-    "spider": "https://gitee.com/hnzjb/tvplayer/raw/master/JAR&tok/Yoursmile.jar",
-"wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/tb/%E7%81%AF%E5%A1%94.jpg",
+    "spider": "https://gitee.com/hnzjb/tvplayer/raw/master/JAR/Yoursmile.jar",
+"wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/hnzjb/tvplayer/main/live.txt",
             "type": 0,
