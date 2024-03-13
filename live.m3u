@@ -143,15 +143,15 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/322
 #EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVweishengjiankang.png" group-title="央视数字",卫生健康
 http://119.54.11.79:9999/hls/88/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/MSXX.png" group-title="浙江",民生休闲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/MSXX.png" group-title="浙江",浙江民生休闲
 http://125.125.56.55:8889/rtp/233.50.201.136:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/QJPD.png" group-title="浙江",钱江频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/QJPD.png" group-title="浙江",浙江钱江都市
 http://125.125.56.55:8889/rtp/233.50.201.132:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JJSH.png" group-title="浙江",经济生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JJSH.png" group-title="浙江",浙江经济生活
 http://125.125.56.55:8889/rtp/233.50.201.133:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JYKX.png" group-title="浙江",教科影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JYKX.png" group-title="浙江",浙江教科影视
 http://125.125.56.55:8889/rtp/233.50.201.134:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJXW.png" group-title="浙江",浙江新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJXW.png" group-title="浙江",浙江NEWS
 http://125.125.56.55:8889/rtp/233.50.201.137:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJSE.png" group-title="浙江",浙江少儿
 http://125.125.56.55:8889/rtp/233.50.201.138:5140
@@ -172,9 +172,9 @@ http://125.125.56.55:8889/rtp/233.50.201.180:5140
 
 
 
-#EXTINF:-1 tvg-id="1984" tvg-name="新闻综合" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/shanghaixinwenzonghe.png" group-title="上海",新闻综合
+#EXTINF:-1 tvg-id="1984" tvg-name="上海新闻综合" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/shanghaixinwenzonghe.png" group-title="上海",上海新闻综合
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="1989" tvg-name="东方都市" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/shanghaidushi.png" group-title="上海",东方都市
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/shanghaidushi.png" group-title="上海",上海都市
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/shanghaidongfangyingshi.png" group-title="上海",东方影视
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
@@ -196,24 +196,24 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u
 
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/CHCdongzuo.png" group-title="影视娱乐",CHC动作电影
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/CHCjiating.png" group-title="影视娱乐",CHC家庭电影
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/CHCjiating.png" group-title="影视娱乐",CHC家庭影院
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/CHCgaoqing.png" group-title="影视娱乐",CHC高清电影
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/citydushijuchang.png" group-title="影视娱乐",CITY都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="CITY都市剧场" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/citydushijuchang.png" group-title="影视娱乐",CITY都市剧场
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/heimeidianying.png" group-title="影视娱乐",黑莓电影
+#EXTINF:-1 tvg-id="" tvg-name="黑莓电影" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/heimeidianying.png" group-title="影视娱乐",黑莓电影
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbI
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="影视娱乐",欢笑剧场
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/cunxiang4K.png" group-title="影视娱乐",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/cunxiang4K.png" group-title="影视娱乐",纯享4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="1977" tvg-name="爱上4K" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qita/as4k.png" group-title="影视娱乐",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/shanghai/leyou.png" group-title="纪实频道",乐游
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="1988" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪实频道",纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="纪实频道",上海纪实人文
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="纪实频道",生活时尚
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
@@ -233,6 +233,12 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/qiusuopd/QSDW.png" group-title="纪实频道",求索动物
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+
+
+
+
+
+
 
 
 
