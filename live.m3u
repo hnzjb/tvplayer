@@ -143,17 +143,17 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/322
 #EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/yangshishuzi/CCTVweishengjiankang.png" group-title="央视数字",卫生健康
 http://119.54.11.79:9999/hls/88/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/MSXX.png" group-title="浙江",民生休闲
+#EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/MSXX.png" group-title="浙江",民生休闲
 http://125.125.56.55:8889/rtp/233.50.201.136:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/QJPD.png" group-title="浙江",钱江都市
+#EXTINF:-1 tvg-id="" tvg-name="浙江钱江都市" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/QJPD.png" group-title="浙江",钱江都市
 http://125.125.56.55:8889/rtp/233.50.201.132:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JJSH.png" group-title="浙江",经济生活
+#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JJSH.png" group-title="浙江",经济生活
 http://125.125.56.55:8889/rtp/233.50.201.133:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JYKX.png" group-title="浙江",教科影视
+#EXTINF:-1 tvg-id="" tvg-name="浙江科教影视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JYKX.png" group-title="浙江",教科影视
 http://125.125.56.55:8889/rtp/233.50.201.134:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJXW.png" group-title="浙江",浙江NEWS
+#EXTINF:-1 tvg-id="" tvg-name="浙江NEWS" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJXW.png" group-title="浙江",浙江NEWS
 http://125.125.56.55:8889/rtp/233.50.201.137:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJSE.png" group-title="浙江",浙江少儿
+#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJSE.png" group-title="浙江",浙江少儿
 http://125.125.56.55:8889/rtp/233.50.201.138:5140
 
 
