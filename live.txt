@@ -222,7 +222,7 @@ CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
 凤凰香港,http://113.64.145.200:8081/hls/38/index.m3u8$广东酒店
 
 凤凰资讯,http://116.11.157.197:8181/tsfile/live/1001_1.m3u8$广西玉林电信酒店
-凤凰卫视,http://116.11.157.197:8181/tsfile/live/1009_1.m3u8$广西玉林电信酒店
+凤凰中文,http://116.11.157.197:8181/tsfile/live/1009_1.m3u8$广西玉林电信酒店
 凤凰香港,http://116.11.157.197:8181/tsfile/live/1005_1.m3u8$广西玉林电信酒店
 
 
@@ -281,13 +281,7 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 北京生活,http://sweetown.fun:4000/udp/239.3.1.117:8000$北京联通组播
 北京新闻,http://sweetown.fun:4000/udp/239.3.1.159:8000$北京联通组播
 北京卡酷少儿,http://sweetown.fun:4000/udp/239.3.1.189:8000$北京联通组播
-北京4K,http://sweetown.fun:4000/udp/239.3.1.249:8001$北京联通组播
-北京淘剧场,http://sweetown.fun:4000/udp/239.3.1.95:8001$北京联通组播
-北京淘电影,http://sweetown.fun:4000/udp/239.3.1.250:8001$北京联通组播
-北京淘娱乐,http://sweetown.fun:4000/udp/239.3.1.100:8001$北京联通组播
-北京I淘精彩,http://sweetown.fun:4000/udp/239.3.1.178:8001$北京联通组播
-北京淘BABY,http://sweetown.fun:4000/udp/239.3.1.238:8001$北京联通组播
-北京萌宠TV,http://sweetown.fun:4000/udp/239.3.1.102:8001$北京联通组播
+
 
 北京文艺,http://zhcx.love:8888/udp/225.1.8.22:8002$北京电信组播
 北京科教,http://zhcx.love:8888/udp/225.1.8.105:8002$北京电信组播
@@ -298,6 +292,7 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 北京青年,http://zhcx.love:8888/udp/225.1.8.118:8002$北京电信组播
 北京新闻,http://zhcx.love:8888/udp/225.1.8.83:8000$北京电信组播
 北京卡酷少儿,http://zhcx.love:8888/udp/225.1.8.35:8000$北京电信组播
+
 北京淘精彩,http://zhcx.love:8888/udp/225.1.8.33:8002$北京电信组播
 北京淘BABY,http://zhcx.love:8888/udp/225.1.8.36:8002$北京电信组播
 北京淘剧场,http://zhcx.love:8888/udp/225.1.8.37:8002$北京电信组播
@@ -305,6 +300,15 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 北京淘娱乐,http://zhcx.love:8888/udp/225.1.8.61:8002$北京电信组播
 北京萌宠TV,http://zhcx.love:8888/udp/225.1.8.63:8002$北京电信组播
 北京4K,http://zhcx.love:8888/udp/225.1.8.211:8002$北京电信组播
+
+北京4K,http://sweetown.fun:4000/udp/239.3.1.249:8001$北京联通组播
+北京淘剧场,http://sweetown.fun:4000/udp/239.3.1.95:8001$北京联通组播
+北京淘电影,http://sweetown.fun:4000/udp/239.3.1.250:8001$北京联通组播
+北京淘娱乐,http://sweetown.fun:4000/udp/239.3.1.100:8001$北京联通组播
+北京淘精彩,http://sweetown.fun:4000/udp/239.3.1.178:8001$北京联通组播
+北京淘BABY,http://sweetown.fun:4000/udp/239.3.1.238:8001$北京联通组播
+北京萌宠TV,http://sweetown.fun:4000/udp/239.3.1.102:8001$北京联通组播
+
 
 上海,#genre#
 上海新闻综合,http://a.jack4096.top:10001/udp/239.45.3.209:5140$上海电信组播1
@@ -388,9 +392,9 @@ CHC高清电影,http://119.54.11.79:9999/hls/91/index.m3u8$吉林联通酒店
 CHC家庭影院,http://119.54.11.79:9999/hls/92/index.m3u8$吉林联通酒店
 
 
-家庭影院,http://116.11.157.197:8181/tsfile/live/1015_1.m3u8$广西玉林电信酒店
-动作电影,http://116.11.157.197:8181/tsfile/live/1016_1.m3u8$广西玉林电信酒店
-高清电影,http://116.11.157.197:8181/tsfile/live/1017_1.m3u8$广西玉林电信酒店
+CHC家庭影院,http://116.11.157.197:8181/tsfile/live/1015_1.m3u8$广西玉林电信酒店
+CHC动作电影,http://116.11.157.197:8181/tsfile/live/1016_1.m3u8$广西玉林电信酒店
+CHC高清电影,http://116.11.157.197:8181/tsfile/live/1017_1.m3u8$广西玉林电信酒店
 
 
 CHC动作电影,http://ipys.2288.org:8889/udp/228.1.1.105:6105$湖南联通组播
@@ -400,7 +404,7 @@ CHC高清电影,http://ipys.2288.org:8889/udp/228.1.1.122:6122$湖南联通组�
 CHC高清电影,http://gzly.softether.net:6005/udp/239.252.219.83:5140$江西电信组播
 CHC家庭影院,http://gzly.softether.net:6005/udp/239.252.219.84:5140$江西电信组播
 CHC动作电影,http://gzly.softether.net:6005/udp/239.252.219.85:5140$江西电信组播
-爱上4K电影,http://116.11.157.197:8181/tsfile/live/1013_1.m3u8$广西玉林电信酒店
+爱上4K,http://116.11.157.197:8181/tsfile/live/1013_1.m3u8$广西玉林电信酒店
 快乐垂钓,http://ipys.2288.org:8889/udp/228.1.1.98:6098$湖南联通组播
 茶频道,http://ipys.2288.org:8889/udp/228.1.1.120:6120$湖南联通组播
 
