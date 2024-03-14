@@ -293,21 +293,21 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 北京新闻,http://zhcx.love:8888/udp/225.1.8.83:8000$北京电信组播
 北京卡酷少儿,http://zhcx.love:8888/udp/225.1.8.35:8000$北京电信组播
 
-北京淘精彩,http://zhcx.love:8888/udp/225.1.8.33:8002$北京电信组播
-北京淘BABY,http://zhcx.love:8888/udp/225.1.8.36:8002$北京电信组播
-北京淘剧场,http://zhcx.love:8888/udp/225.1.8.37:8002$北京电信组播
-北京淘电影,http://zhcx.love:8888/udp/225.1.8.38:8002$北京电信组播
-北京淘娱乐,http://zhcx.love:8888/udp/225.1.8.61:8002$北京电信组播
-北京萌宠TV,http://zhcx.love:8888/udp/225.1.8.63:8002$北京电信组播
+淘精彩,http://zhcx.love:8888/udp/225.1.8.33:8002$北京电信组播
+淘BABY,http://zhcx.love:8888/udp/225.1.8.36:8002$北京电信组播
+淘剧场,http://zhcx.love:8888/udp/225.1.8.37:8002$北京电信组播
+淘电影,http://zhcx.love:8888/udp/225.1.8.38:8002$北京电信组播
+淘娱乐,http://zhcx.love:8888/udp/225.1.8.61:8002$北京电信组播
+萌宠TV,http://zhcx.love:8888/udp/225.1.8.63:8002$北京电信组播
 北京4K,http://zhcx.love:8888/udp/225.1.8.211:8002$北京电信组播
 
 北京4K,http://sweetown.fun:4000/udp/239.3.1.249:8001$北京联通组播
-北京淘剧场,http://sweetown.fun:4000/udp/239.3.1.95:8001$北京联通组播
-北京淘电影,http://sweetown.fun:4000/udp/239.3.1.250:8001$北京联通组播
-北京淘娱乐,http://sweetown.fun:4000/udp/239.3.1.100:8001$北京联通组播
-北京淘精彩,http://sweetown.fun:4000/udp/239.3.1.178:8001$北京联通组播
-北京淘BABY,http://sweetown.fun:4000/udp/239.3.1.238:8001$北京联通组播
-北京萌宠TV,http://sweetown.fun:4000/udp/239.3.1.102:8001$北京联通组播
+淘剧场,http://sweetown.fun:4000/udp/239.3.1.95:8001$北京联通组播
+淘电影,http://sweetown.fun:4000/udp/239.3.1.250:8001$北京联通组播
+淘娱乐,http://sweetown.fun:4000/udp/239.3.1.100:8001$北京联通组播
+淘精彩,http://sweetown.fun:4000/udp/239.3.1.178:8001$北京联通组播
+淘BABY,http://sweetown.fun:4000/udp/239.3.1.238:8001$北京联通组播
+萌宠TV,http://sweetown.fun:4000/udp/239.3.1.102:8001$北京联通组播
 
 
 上海,#genre#
