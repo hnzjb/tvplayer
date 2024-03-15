@@ -259,11 +259,11 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 
 电视指南,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.5:6000$江苏电信组播
 风云足球,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.6:6000$江苏电信组播
-央视网球,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.7:6000$江苏电信组播
+高尔夫网球,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.7:6000$江苏电信组播
 世界地理,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.8:6000$江苏电信组播
 兵器科技,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.9:6000$江苏电信组播
 风云剧场,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.10:6000$江苏电信组播
-文化精品,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.11:6000$江苏电信组播
+央视精品,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.11:6000$江苏电信组播
 怀旧剧场,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.12:6000$江苏电信组播
 风云音乐,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.13:6000$江苏电信组播
 女性时尚,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.14:6000$江苏电信组播
@@ -271,17 +271,17 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 央视台球,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.22:6000$江苏电信组播
 
 
-电视指南1080P,http://cd.sy012.com:4000/udp/232.0.0.124:9294$大连联通组播
-文化精品1080P,http://cd.sy012.com:4000/udp/232.0.0.107:8698$大连联通组播
-风云剧场1080P,http://cd.sy012.com:4000/udp/232.0.0.52:8610$大连联通组播
-风云足球1080P,http://cd.sy012.com:4000/udp/232.0.0.90:9286$大连联通组播
-风云音乐1080P,http://cd.sy012.com:4000/udp/232.0.0.108:9288$大连联通组播
-女性时尚1080P,http://cd.sy012.com:4000/udp/232.0.0.120:8858$大连联通组播
-兵器科技1080P,http://cd.sy012.com:4000/udp/232.0.0.121:8882$大连联通组播
-央视台球1080P,http://cd.sy012.com:4000/udp/232.0.0.122:9290$大连联通组播
-世界地理1080P,http://cd.sy012.com:4000/udp/232.0.0.123:9292$大连联通组播
-第一剧场1080P,http://cd.sy012.com:4000/udp/232.0.0.147:9132$大连联通组播
-怀旧剧场1080P,http://cd.sy012.com:4000/udp/232.0.0.204:9226$大连联通组播
+电视指南,http://cd.sy012.com:4000/udp/232.0.0.124:9294$大连联通组播
+央视精品,http://cd.sy012.com:4000/udp/232.0.0.107:8698$大连联通组播
+风云剧场,http://cd.sy012.com:4000/udp/232.0.0.52:8610$大连联通组播
+风云足球,http://cd.sy012.com:4000/udp/232.0.0.90:9286$大连联通组播
+风云音乐,http://cd.sy012.com:4000/udp/232.0.0.108:9288$大连联通组播
+女性时尚,http://cd.sy012.com:4000/udp/232.0.0.120:8858$大连联通组播
+兵器科技,http://cd.sy012.com:4000/udp/232.0.0.121:8882$大连联通组播
+央视台球,http://cd.sy012.com:4000/udp/232.0.0.122:9290$大连联通组播
+世界地理,http://cd.sy012.com:4000/udp/232.0.0.123:9292$大连联通组播
+第一剧场,http://cd.sy012.com:4000/udp/232.0.0.147:9132$大连联通组播
+怀旧剧场,http://cd.sy012.com:4000/udp/232.0.0.204:9226$大连联通组播
 
 北京,#genre#
 北京文艺,http://sweetown.fun:4000/udp/239.3.1.242:8000$北京联通组播
@@ -406,7 +406,6 @@ CHC高清电影,http://gzly.softether.net:6005/udp/239.252.219.83:5140$江西电
 CHC家庭影院,http://gzly.softether.net:6005/udp/239.252.219.84:5140$江西电信组播
 CHC动作电影,http://gzly.softether.net:6005/udp/239.252.219.85:5140$江西电信组播
 
-IPTV4K,http://www.yao87.com:4022/udp/239.76.245.35:1234$湖南电信组播
 快乐垂钓,http://ipys.2288.org:8889/udp/228.1.1.98:6098$湖南联通组播
 茶频道,http://ipys.2288.org:8889/udp/228.1.1.120:6120$湖南联通组播
 
