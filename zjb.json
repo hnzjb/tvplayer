@@ -1,4 +1,5 @@
 {
+    {
     "spider": "https://gitee.com/hnzjb/tvplayer/raw/master/JAR/Yoursmile.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
@@ -12,20 +13,65 @@
 
 
 "sites":[
-{"key":"csp_Czsapp",
-"name":"🏭厂长",
-"type":3,
-"api":"csp_Czsapp",
-"searchable":1,
-"quickSearch":1,
-"filterable":0},
+{
+      "key": "Alist",
+      "name": "🌟小雅┃高清",
+      "type": 3,
+      "api": "http://jiandjh.zicp.net:5678/tvbox/libs/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": [
+        {
+          "name": "丫仙女",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/",
+          "search": true
+        },
+        {
+          "name": "每日更新",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/每日更新"
+        },
+        {
+          "name": "电影",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/电影"
+        },
+        {
+          "name": "电视剧",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/电视剧"
+        },
+        {
+          "name": "综艺",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/综艺"
+        },
+        {
+          "name": "纪录片",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/纪录片"
+        },
+        {
+          "name": "动漫",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/动漫"
+        },
+        {
+          "name": "儿童",
+          "server": "http://jiandjh.zicp.net:5678/",
+          "startPage": "/动漫/儿童"
+        }
+      ]
+    },
+
+
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"https://gitee.com/hnzjb/tvplayer/raw/master/ystvy/spider.jar"},
-{"key":"云播","name":"云播","type":3,"api":"csp_Skapp","ext":"https://gitee.com/hnzjb/tvplayer/raw/master/ystvy/%E4%BA%91%E6%92%AD","jar":"https://gitee.com/hnzjb/tvplayer/raw/master/ystvy/spider.jar"},
 
-{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hnzjb/tvplayer/raw/master/ystvy/spider.jar"},
-
-
+{"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
+{"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"360",
 "name":"💘360┃影视",
 "type":3,
@@ -122,15 +168,7 @@
 
 
 
-{"key":"陌陌",
-"name":"陌陌",
-"type":3,
-"api":"csp_AppYsV2",
-"searchable":1,
-"quickSearch":1,
-"changeable":1,
-"ext":"https://www.kuin.one/api.php/app/",
-"jar":""},
+
 
 {"key": "南瓜",
 "name": "南瓜┃APP",
