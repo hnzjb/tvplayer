@@ -36,7 +36,7 @@ CCTV13,http://111.20.105.60:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtu
 CCTV14,http://111.20.105.60:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河V4
 CCTV15,http://111.20.105.60:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河V4
 CCTV16,http://111.20.105.60:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河V4
-CCTV17,http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV17,http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$陕西银河V4
 
 CCTV1，http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8$HLJ
 CCTV2，http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$HLJ
