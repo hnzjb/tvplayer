@@ -216,11 +216,6 @@ CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
 吉林卫视,http://sweetown.fun:4000/udp/239.3.1.240:8172$北京联通组播
 黑龙江卫视,http://sweetown.fun:4000/udp/239.3.1.133:8016$北京联通组播
 港澳台,#genre#
-凤凰中文,http://110.72.76.20:808/hls/234575323/index.m3u8$广西贵港联通酒店
-凤凰香港,http://110.72.76.20:808/hls/235577686/index.m3u8$广西贵港联通酒店
-凤凰咨讯,http://110.72.76.20:808/hls/219429978/index.m3u8$广西贵港联通酒店
-
-
 凤凰中文,http://my6.x3322.net:9900/udp/239.93.0.162:2192$四川电信组播
 凤凰资讯,http://my6.x3322.net:9900/udp/239.93.0.118:2191$四川电信组播
 
@@ -228,28 +223,7 @@ CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
 凤凰中文,http://113.64.145.200:8081/hls/37/index.m3u8$广东揭阳电信酒店
 凤凰香港,http://113.64.145.200:8081/hls/38/index.m3u8$广东揭阳电信酒店
 
-
-澳门莲花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
-三立新闻台,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
-TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
-
-
-动物星球,http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
-探索频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
-AXN,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
-HBOHD,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
-HBOFAMILY,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
-HBOHITS,http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
-CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
-龙祥时代,http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
-东森电影,http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
-龙华电影,http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv
-好莱坞电影,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
-
-
 中数,#genre#
-
-
 电视指南,http://gzly.softether.net:6005/udp/239.252.219.97:5140$江西电信组播
 央视精品,http://gzly.softether.net:6005/udp/239.252.219.81:5140$江西电信组播
 世界地理,http://gzly.softether.net:6005/udp/239.252.219.93:5140$江西电信组播
@@ -263,7 +237,19 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 风云足球,http://gzly.softether.net:6005/udp/239.252.219.96:5140$江西电信组播
 央视台球,http://gzly.softether.net:6005/udp/239.252.219.80:5140$江西电信组播
 
-电视指南,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.5:6000$江苏电信组播
+CCTV电视指南,http://202.102.201.244:40022/udp/238.1.79.53:4560$安徽电信组播
+CCTV央视精品,http://202.102.201.244:40022/udp/238.1.79.54:4568$安徽电信组播
+CCTV女性时尚,http://202.102.201.244:40022/udp/238.1.79.55:4576$安徽电信组播
+CCTV兵器科技,http://202.102.201.244:40022/udp/238.1.79.56:4584$安徽电信组播
+CCTV风云足球,http://202.102.201.244:40022/udp/238.1.79.57:4592$安徽电信组播
+CCTV央视网球,http://202.102.201.244:40022/udp/238.1.79.58:4600$安徽电信组播
+CCTV央视台球,http://202.102.201.244:40022/udp/238.1.79.59:4608$安徽电信组播
+CCTV世界地理,http://202.102.201.244:40022/udp/238.1.79.60:4616$安徽电信组播
+CCTV怀旧剧场,http://202.102.201.244:40022/udp/238.1.79.61:4624$安徽电信组播
+CCTV风云剧场,http://202.102.201.244:40022/udp/238.1.79.62:4632$安徽电信组播
+CCTV第一剧场,http://202.102.201.244:40022/udp/238.1.79.63:4640$安徽电信组播
+CCTV风云音乐,http://202.102.201.244:40022/udp/238.1.79.64:4648$安徽电信组播
+
 风云足球,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.6:6000$江苏电信组播
 高尔夫网球,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.7:6000$江苏电信组播
 世界地理,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.8:6000$江苏电信组播
@@ -277,17 +263,6 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 央视台球,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.22:6000$江苏电信组播
 
 
-电视指南,http://cd.sy012.com:4000/udp/232.0.0.124:9294$大连联通组播
-央视精品,http://cd.sy012.com:4000/udp/232.0.0.107:8698$大连联通组播
-风云剧场,http://cd.sy012.com:4000/udp/232.0.0.52:8610$大连联通组播
-风云足球,http://cd.sy012.com:4000/udp/232.0.0.90:9286$大连联通组播
-风云音乐,http://cd.sy012.com:4000/udp/232.0.0.108:9288$大连联通组播
-女性时尚,http://cd.sy012.com:4000/udp/232.0.0.120:8858$大连联通组播
-兵器科技,http://cd.sy012.com:4000/udp/232.0.0.121:8882$大连联通组播
-央视台球,http://cd.sy012.com:4000/udp/232.0.0.122:9290$大连联通组播
-世界地理,http://cd.sy012.com:4000/udp/232.0.0.123:9292$大连联通组播
-第一剧场,http://cd.sy012.com:4000/udp/232.0.0.147:9132$大连联通组播
-怀旧剧场,http://cd.sy012.com:4000/udp/232.0.0.204:9226$大连联通组播
 
 北京,#genre#
 北京文艺,http://sweetown.fun:4000/udp/239.3.1.242:8000$北京联通组播
@@ -306,11 +281,10 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 北京财经,http://zhcx.love:8888/udp/225.1.8.106:8002$北京电信组播
 北京纪实科教,http://zhcx.love:8888/udp/225.1.8.23:8002$北京电信组播
 北京生活,http://zhcx.love:8888/udp/225.1.8.108:8002$北京电信组播
-北京青年,http://zhcx.love:8888/udp/225.1.8.118:8002$北京电信组播
 北京新闻,http://zhcx.love:8888/udp/225.1.8.83:8000$北京电信组播
 北京卡酷少儿,http://zhcx.love:8888/udp/225.1.8.35:8000$北京电信组播
 
-淘精彩,http://zhcx.love:8888/udp/225.1.8.33:8002$北京电信组播
+
 淘BABY,http://zhcx.love:8888/udp/225.1.8.36:8002$北京电信组播
 淘剧场,http://zhcx.love:8888/udp/225.1.8.37:8002$北京电信组播
 淘电影,http://zhcx.love:8888/udp/225.1.8.38:8002$北京电信组播
@@ -322,7 +296,6 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 淘剧场,http://sweetown.fun:4000/udp/239.3.1.95:8001$北京联通组播
 淘电影,http://sweetown.fun:4000/udp/239.3.1.250:8001$北京联通组播
 淘娱乐,http://sweetown.fun:4000/udp/239.3.1.100:8001$北京联通组播
-淘精彩,http://sweetown.fun:4000/udp/239.3.1.178:8001$北京联通组播
 淘BABY,http://sweetown.fun:4000/udp/239.3.1.238:8001$北京联通组播
 萌宠TV,http://sweetown.fun:4000/udp/239.3.1.102:8001$北京联通组播
 
@@ -359,16 +332,6 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 法治天地,http://porco.cn:4022/udp/239.45.1.46:5140$上海电信组播2
 金鹰纪实,http://porco.cn:4022/udp/239.45.1.45:5140$上海电信组播2
 浙江,#genre#
-浙江钱江都市,http://mc.myxcwh.com:8125/rtp/233.50.201.132:5140$浙江联通组播1
-浙江民生,http://mc.myxcwh.com:8125/rtp/233.50.201.136:5140$浙江联通组播1
-浙江经济生活,http://mc.myxcwh.com:8125/rtp/233.50.201.133:5140$浙江联通组播1
-浙江教科影视,http://mc.myxcwh.com:8125/rtp/233.50.201.134:5140$浙江联通组播1
-浙江新闻,http://mc.myxcwh.com:8125/rtp/233.50.201.137:5140$浙江联通组播1
-浙江少儿,http://mc.myxcwh.com:8125/rtp/233.50.201.138:5140$浙江联通组播1
-宁波TV1,http://mc.myxcwh.com:8125/rtp/233.50.201.168:5140$浙江联通组播1
-宁波TV2,http://mc.myxcwh.com:8125/rtp/233.50.201.178:5140$浙江联通组播1
-宁波TV3,http://mc.myxcwh.com:8125/rtp/233.50.201.179:5140$浙江联通组播1
-宁波TV4,http://mc.myxcwh.com:8125/rtp/233.50.201.180:5140$浙江联通组播1
 
 浙江钱江都市,http://iptv.myxcwh.com:8125/rtp/233.50.201.132:5140$浙江联通组播2
 浙江民生,http://iptv.myxcwh.com:8125/rtp/233.50.201.136:5140$浙江联通组播2
@@ -392,10 +355,10 @@ CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdb
 宁波TV3,http://125.125.56.55:8889/rtp/233.50.201.179:5140$浙江电信组播1
 宁波TV4,http://125.125.56.55:8889/rtp/233.50.201.180:5140$浙江电信组播1
 
-钱江频道,http://60.178.148.222:4022/rtp/233.50.201.132:5140$浙江电信组播2
+浙江钱江都市,http://60.178.148.222:4022/rtp/233.50.201.132:5140$浙江电信组播2
 浙江民生,http://60.178.148.222:4022/rtp/233.50.201.136:5140$浙江电信组播2
 浙江经济生活,http://60.178.148.222:4022/rtp/233.50.201.133:5140$浙江电信组播2
-浙江教育,http://60.178.148.222:4022/rtp/233.50.201.134:5140$浙江电信组播2
+浙江教科影视,http://60.178.148.222:4022/rtp/233.50.201.134:5140$浙江电信组播2
 浙江新闻,http://60.178.148.222:4022/rtp/233.50.201.137:5140$浙江电信组播2
 浙江少儿,http://60.178.148.222:4022/rtp/233.50.201.138:5140$浙江电信组播2
 宁波TV1,http://60.178.148.222:4022/rtp/233.50.201.168:5140$浙江电信组播2
