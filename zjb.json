@@ -194,7 +194,7 @@
 {"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 
 {"key":"csp_WoGG",
-"name":"👽玩偶哥哥",
+"name":"👽玩偶哥哥[免费注册阿里云盘扫码即可]",
 "type":3,
 "api":"csp_WoGG",
 "searchable":1,
@@ -207,7 +207,7 @@
 
 
 {"key":"PanSearch",
-"name":"🙀盘搜索",
+"name":"🙀盘搜索[免费注册阿里云盘扫码即可]",
 "type":3,
 "api":"csp_PanSearch",
 "searchable":1,
@@ -217,7 +217,7 @@
 "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 
 {"key":"YiSo",
-"name":"🆎易搜",
+"name":"🆎易搜[免费注册阿里云盘扫码即可]",
 "type":3,
 "api":"csp_YiSo",
 "searchable":1,
