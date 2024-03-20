@@ -144,29 +144,29 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/322
 http://119.54.11.79:9999/hls/88/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/MSXX.png" group-title="浙江",民生休闲
-http://125.125.56.55:8889/rtp/233.50.201.136:5140
+http://iptv.myxcwh.com:8125/rtp/233.50.201.136:5140
 #EXTINF:-1 tvg-id="" tvg-name="浙江钱江都市" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/QJPD.png" group-title="浙江",钱江都市
-http://125.125.56.55:8889/rtp/233.50.201.132:5140
+http://iptv.myxcwh.com:8125/rtp/233.50.201.132:5140
 #EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JJSH.png" group-title="浙江",经济生活
-http://125.125.56.55:8889/rtp/233.50.201.133:5140
+http://iptv.myxcwh.com:8125/rtp/233.50.201.133:5140
 #EXTINF:-1 tvg-id="" tvg-name="浙江科教影视" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/JYKX.png" group-title="浙江",教科影视
-http://125.125.56.55:8889/rtp/233.50.201.134:5140
+http://iptv.myxcwh.com:8125/rtp/233.50.201.134:5140
 #EXTINF:-1 tvg-id="" tvg-name="浙江NEWS" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJXW.png" group-title="浙江",浙江NEWS
-http://125.125.56.55:8889/rtp/233.50.201.137:5140
+http://iptv.myxcwh.com:8125/rtp/233.50.201.137:5140
 #EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/ZJSE.png" group-title="浙江",浙江少儿
-http://125.125.56.55:8889/rtp/233.50.201.138:5140
+http://iptv.myxcwh.com:8125/rtp/233.50.201.138:5140
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/NBTV/NBTV-1.png" group-title="浙江",宁波TV1
-http://125.125.56.55:8889/rtp/233.50.201.168:5140
+http://iptv.myxcwh.com:8125/rtp/233.50.201.168:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/NBTV/NBTV-2.png" group-title="浙江",宁波TV2
-http://125.125.56.55:8889/rtp/233.50.201.178:5140
+http://iptv.myxcwh.com:8125/rtp/233.50.201.178:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/NBTV/NBTV-3.png" group-title="浙江",宁波TV3
-http://125.125.56.55:8889/rtp/233.50.201.179:5140
+http://iptv.myxcwh.com:8125/rtp/233.50.201.179:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/NBTV/NBTV-4.png" group-title="浙江",宁波TV4
-http://125.125.56.55:8889/rtp/233.50.201.180:5140
+http://iptv.myxcwh.com:8125/rtp/233.50.201.180:5140
 
 
 
