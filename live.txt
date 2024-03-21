@@ -379,7 +379,8 @@ HBOHD,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcb
 宁波TV3,http://125.125.56.59:8888/rtp/233.50.201.179:5140$浙江电信组播2
 宁波TV4,http://125.125.56.59:8888/rtp/233.50.201.180:5140$浙江电信组播2
 
-影视娱乐,#genre#CHC动作电影,http://ipys.2288.org:8889/udp/228.1.1.105:6105$湖南联通组播
+影视娱乐,#genre#
+CHC动作电影,http://ipys.2288.org:8889/udp/228.1.1.105:6105$湖南联通组播
 CHC家庭影院,http://ipys.2288.org:8889/udp/228.1.1.106:6106$湖南联通组播
 CHC高清电影,http://ipys.2288.org:8889/udp/228.1.1.122:6122$湖南联通组播
 
