@@ -45,6 +45,23 @@ CCTV17,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/11731
 浙江公共新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/396328936.smil/index.m3u8?fmt=ts2hls  
    
 央视,#genre#
+CCTV1,http://119.54.14.203:9999/hls/1/index.m3u8$吉林联通酒店
+CCTV2,http://119.54.14.203:9999/hls/2/index.m3u8$吉林联通酒店
+CCTV3,http://119.54.14.203:9999/hls/3/index.m3u8$吉林联通酒店
+CCTV4,http://119.54.14.203:9999/hls/4/index.m3u8$吉林联通酒店
+CCTV5,http://119.54.14.203:9999/hls/5/index.m3u8$吉林联通酒店
+CCTV6,http://119.54.14.203:9999/hls/6/index.m3u8$吉林联通酒店
+CCTV7,http://119.54.14.203:9999/hls/7/index.m3u8$吉林联通酒店
+CCTV8,http://119.54.14.203:9999/hls/8/index.m3u8$吉林联通酒店
+CCTV9,http://119.54.14.203:9999/hls/9/index.m3u8$吉林联通酒店
+CCTV10,http://119.54.14.203:9999/hls/10/index.m3u8$吉林联通酒店
+CCTV11,http://119.54.14.203:9999/hls/11/index.m3u8$吉林联通酒店
+CCTV12,http://119.54.14.203:9999/hls/12/index.m3u8$吉林联通酒店
+CCTV13,http://119.54.14.203:9999/hls/13/index.m3u8$吉林联通酒店
+CCTV14,http://119.54.14.203:9999/hls/14/index.m3u8$吉林联通酒店
+CCTV15,http://119.54.14.203:9999/hls/15/index.m3u8$吉林联通酒店
+CCTV16,http://119.54.14.203:9999/hls/16/index.m3u8$吉林联通酒店
+CCTV17,http://119.54.14.203:9999/hls/17/index.m3u8$吉林联通酒店
 
 CCTV1,http://ipys.2288.org:8889/udp/228.1.1.1:6001$湖南联通组播
 CCTV2,http://ipys.2288.org:8889/udp/228.1.1.2:6002$湖南联通组播
@@ -126,6 +143,29 @@ CCTV15,http://sweetown.fun:4000/udp/239.3.1.153:8136$北京联通组播
 CCTV16,http://sweetown.fun:4000/udp/239.3.1.184:8001$北京联通组播
 CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
 卫视,#genre#
+浙江卫视,http://119.54.14.203:9999/hls/33/index.m3u8$吉林联通酒店
+北京卫视,http://119.54.14.203:9999/hls/30/index.m3u8$吉林联通酒店
+东方卫视,http://119.54.14.203:9999/hls/31/index.m3u8$吉林联通酒店
+江苏卫视,http://119.54.14.203:9999/hls/32/index.m3u8$吉林联通酒店
+湖南卫视,http://119.54.14.203:9999/hls/34/index.m3u8$吉林联通酒店
+辽宁卫视,http://119.54.14.203:9999/hls/35/index.m3u8$吉林联通酒店
+天津卫视,http://119.54.14.203:9999/hls/36/index.m3u8$吉林联通酒店
+深圳卫视,http://119.54.14.203:9999/hls/37/index.m3u8$吉林联通酒店
+安徽卫视,http://119.54.14.203:9999/hls/38/index.m3u8$吉林联通酒店
+吉林卫视,http://119.54.14.203:9999/hls/18/index.m3u8$吉林联通酒店
+广东卫视,http://119.54.14.203:9999/hls/39/index.m3u8$吉林联通酒店
+山东卫视,http://119.54.14.203:9999/hls/40/index.m3u8$吉林联通酒店
+贵州卫视,http://119.54.14.203:9999/hls/41/index.m3u8$吉林联通酒店
+黑龙江卫视,http://119.54.14.203:9999/hls/42/index.m3u8$吉林联通酒店
+河北卫视,http://119.54.14.203:9999/hls/43/index.m3u8$吉林联通酒店
+东南卫视,http://119.54.14.203:9999/hls/44/index.m3u8$吉林联通酒店
+湖北卫视,http://119.54.14.203:9999/hls/45/index.m3u8$吉林联通酒店
+重庆卫视,http://119.54.14.203:9999/hls/46/index.m3u8$吉林联通酒店
+河南卫视,http://119.54.14.203:9999/hls/51/index.m3u8$吉林联通酒店
+江西卫视,http://119.54.14.203:9999/hls/54/index.m3u8$吉林联通酒店
+广西卫视,http://119.54.14.203:9999/hls/55/index.m3u8$吉林联通酒店
+四川卫视,http://119.54.14.203:9999/hls/57/index.m3u8$吉林联通酒店
+甘肃卫视,http://119.54.14.203:9999/hls/59/index.m3u8$吉林联通酒店
 
 浙江卫视,http://ipys.2288.org:8889/udp/228.1.1.25:6025$湖南联通组播
 北京卫视,http://ipys.2288.org:8889/udp/228.1.1.23:6023$湖南联通组播
@@ -236,7 +276,19 @@ HBOHD,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcb
 好莱坞电影,http://ali.hlspull.yximgs.com/live/huanqiuhklivejmpjjwdeyjsjjcjvsjfjljvjfhjuejdfjhjwjljcmbhlwjy.flv
 
 中数,#genre#
-
+电视指南,http://119.54.14.203:9999/hls/87/index.m3u8$吉林联通酒店
+央视精品,http://119.54.14.203:9999/hls/81/index.m3u8$吉林联通酒店
+女性时尚,http://119.54.14.203:9999/hls/73/index.m3u8$吉林联通酒店
+第一剧场,http://119.54.14.203:9999/hls/75/index.m3u8$吉林联通酒店
+世界地理,http://119.54.14.203:9999/hls/76/index.m3u8$吉林联通酒店
+风云足球,http://119.54.14.203:9999/hls/77/index.m3u8$吉林联通酒店
+央视台球,http://119.54.14.203:9999/hls/78/index.m3u8$吉林联通酒店
+风云音乐,http://119.54.14.203:9999/hls/79/index.m3u8$吉林联通酒店
+怀旧剧场,http://119.54.14.203:9999/hls/80/index.m3u8$吉林联通酒店
+兵器科技,http://119.54.14.203:9999/hls/82/index.m3u8$吉林联通酒店
+风云剧场,http://119.54.14.203:9999/hls/86/index.m3u8$吉林联通酒店
+卫生健康,http://119.54.14.203:9999/hls/88/index.m3u8$吉林联通酒店
+高尔夫网球,http://119.54.14.203:9999/hls/89/index.m3u8$吉林联通酒店
 
 电视指南,http://www.yao87.com:4022/udp/239.76.247.61:1234$湖南电信组播
 央视精品,http://www.yao87.com:4022/udp/239.76.247.56:1234$湖南电信组播
@@ -370,13 +422,15 @@ HBOHD,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcb
 宁波TV4,http://125.125.56.59:8888/rtp/233.50.201.180:5140$浙江电信组播2
 
 影视娱乐,#genre#
+CHC动作电影,http://119.54.14.203:9999/hls/90/index.m3u8$吉林联通酒店
+CHC高清电影,http://119.54.14.203:9999/hls/91/index.m3u8$吉林联通酒店
+CHC家庭影院,http://119.54.14.203:9999/hls/92/index.m3u8$吉林联通酒店
+
 CHC动作电影,http://ipys.2288.org:8889/udp/228.1.1.105:6105$湖南联通组播
 CHC家庭影院,http://ipys.2288.org:8889/udp/228.1.1.106:6106$湖南联通组播
 CHC高清电影,http://ipys.2288.org:8889/udp/228.1.1.122:6122$湖南联通组播
 
-CHC高清电影,http://gzly.softether.net:6005/udp/239.252.219.83:5140$江西电信组播
-CHC家庭影院,http://gzly.softether.net:6005/udp/239.252.219.84:5140$江西电信组播
-CHC动作电影,http://gzly.softether.net:6005/udp/239.252.219.85:5140$江西电信组播
+
 
 快乐垂钓,http://ipys.2288.org:8889/udp/228.1.1.98:6098$湖南联通组播
 茶频道,http://ipys.2288.org:8889/udp/228.1.1.120:6120$湖南联通组播
