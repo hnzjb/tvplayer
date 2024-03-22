@@ -238,18 +238,18 @@ HBOHD,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcb
 中数,#genre#
 
 
-电视指南,http://gzly.softether.net:6005/udp/239.252.219.97:5140$江西电信组播
-央视精品,http://gzly.softether.net:6005/udp/239.252.219.81:5140$江西电信组播
-世界地理,http://gzly.softether.net:6005/udp/239.252.219.93:5140$江西电信组播
-兵器科技,http://gzly.softether.net:6005/udp/239.252.219.98:5140$江西电信组播
-风云音乐,http://gzly.softether.net:6005/udp/239.252.219.87:5140$江西电信组播
-第一剧场,http://gzly.softether.net:6005/udp/239.252.219.86:5140$江西电信组播
-风云剧场,http://gzly.softether.net:6005/udp/239.252.219.89:5140$江西电信组播
-怀旧剧场,http://gzly.softether.net:6005/udp/239.252.219.90:5140$江西电信组播
-女性时尚,http://gzly.softether.net:6005/udp/239.252.219.94:5140$江西电信组播
-高尔夫网球,http://gzly.softether.net:6005/udp/239.252.219.95:5140$江西电信组播
-风云足球,http://gzly.softether.net:6005/udp/239.252.219.96:5140$江西电信组播
-央视台球,http://gzly.softether.net:6005/udp/239.252.219.80:5140$江西电信组播
+电视指南,http://www.yao87.com:4022/udp/239.76.247.61:1234$湖南电信组播
+央视精品,http://www.yao87.com:4022/udp/239.76.247.56:1234$湖南电信组播
+世界地理,http://www.yao87.com:4022/udp/239.76.247.57:1234$湖南电信组播
+第一剧场,http://www.yao87.com:4022/udp/239.76.247.49:1234$湖南电信组播
+兵器科技,http://www.yao87.com:4022/udp/239.76.247.59:1234$湖南电信组播
+风云剧场,http://www.yao87.com:4022/udp/239.76.247.50:1234$湖南电信组播
+风云音乐,http://www.yao87.com:4022/udp/239.76.247.51:1234$湖南电信组播
+风云足球,http://www.yao87.com:4022/udp/239.76.247.52:1234$湖南电信组播
+怀旧剧场,http://www.yao87.com:4022/udp/239.76.247.53:1234$湖南电信组播
+女性时尚,http://www.yao87.com:4022/udp/239.76.247.55:1234$湖南电信组播
+央视台球,http://www.yao87.com:4022/udp/239.76.247.58:1234$湖南电信组播
+高尔夫网球,http://www.yao87.com:4022/udp/239.76.247.62:1234$湖南电信组播
 
 电视指南,http://202.102.201.244:40022/udp/238.1.79.53:4560$安徽电信组播
 央视精品,http://202.102.201.244:40022/udp/238.1.79.54:4568$安徽电信组播
@@ -264,17 +264,7 @@ HBOHD,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcb
 第一剧场,http://202.102.201.244:40022/udp/238.1.79.63:4640$安徽电信组播
 风云音乐,http://202.102.201.244:40022/udp/238.1.79.64:4648$安徽电信组播
 
-风云足球,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.6:6000$江苏电信组播
-高尔夫网球,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.7:6000$江苏电信组播
-世界地理,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.8:6000$江苏电信组播
-兵器科技,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.9:6000$江苏电信组播
-风云剧场,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.10:6000$江苏电信组播
-央视精品,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.11:6000$江苏电信组播
-怀旧剧场,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.12:6000$江苏电信组播
-风云音乐,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.13:6000$江苏电信组播
-女性时尚,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.14:6000$江苏电信组播
-第一剧场,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.15:6000$江苏电信组播
-央视台球,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.22:6000$江苏电信组播
+
 
 
 
