@@ -4,7 +4,7 @@ CCTV2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/423298
 CCTV3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/341734363.smil/index.m3u8?fmt=ts2hls
 CCTV4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/114276458.smil/index.m3u8?fmt=ts2hls
 CCTV5,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/341733164.smil/index.m3u8?fmt=ts2hls
-CCTV5+,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/42612910.smil/index.m3u8?fmt=ts2hls
+CCTV5+p,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/42612910.smil/index.m3u8?fmt=ts2hls
 CCTV6,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/341734307.smil/index.m3u8?fmt=ts2hls
 CCTV7,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/42329865.smil/index.m3u8?fmt=ts2hls
 CCTV8,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232645/341734473.smil/index.m3u8?fmt=ts2hls
@@ -50,7 +50,7 @@ CCTV2,http://ipys.2288.org:8889/udp/228.1.1.2:6002$湖南联通组播
 CCTV3,http://ipys.2288.org:8889/udp/228.1.1.3:6003$湖南联通组播
 CCTV4,http://ipys.2288.org:8889/udp/228.1.1.40:6040$湖南联通组播
 CCTV5,http://ipys.2288.org:8889/udp/228.1.1.5:6005$湖南联通组播
-CCTV5+,http://ipys.2288.org:8889/udp/228.1.1.4:6004$湖南联通组播
+CCTV5+p,http://ipys.2288.org:8889/udp/228.1.1.4:6004$湖南联通组播
 CCTV6,http://ipys.2288.org:8889/udp/228.1.1.6:6006$湖南联通组播
 CCTV7,http://ipys.2288.org:8889/udp/228.1.1.118:6118$湖南联通组播
 CCTV8,http://ipys.2288.org:8889/udp/228.1.1.8:6008$湖南联通组播
@@ -89,7 +89,7 @@ CCTV2,http://jiangsudianxin.shualian.work:8888/udp/239.49.8.130:6000$江苏电�
 CCTV3,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.31:6000$江苏电信组播
 CCTV4,http://jiangsudianxin.shualian.work:8888/udp/239.49.8.131:6000$江苏电信组播
 CCTV5,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.32:6000$江苏电信组播
-CCTV5+,http://jiangsudianxin.shualian.work:8888/udp/239.49.8.137:6000$江苏电信组播
+CCTV5+p,http://jiangsudianxin.shualian.work:8888/udp/239.49.8.137:6000$江苏电信组播
 CCTV6,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.33:6000$江苏电信组播
 CCTV7,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.81:6000$江苏电信组播
 CCTV8,http://jiangsudianxin.shualian.work:8888/udp/239.49.9.34:6000$江苏电信组播
@@ -110,7 +110,7 @@ CCTV2,http://www.yao87.com:4022/udp/239.76.246.152:1234$湖南电信组播
 CCTV3,http://www.yao87.com:4022/udp/239.76.246.153:1234$湖南电信组播
 CCTV4,http://www.yao87.com:4022/udp/239.76.246.154:1234$湖南电信组播
 CCTV5,http://www.yao87.com:4022/udp/239.76.246.155:1234$湖南电信组播
-CCTV5+,http://www.yao87.com:4022/udp/239.76.247.215:1234$湖南电信组播
+CCTV5+p,http://www.yao87.com:4022/udp/239.76.247.215:1234$湖南电信组播
 CCTV6,http://www.yao87.com:4022/udp/239.76.246.156:1234$湖南电信组播
 CCTV7,http://www.yao87.com:4022/udp/239.76.246.157:1234$湖南电信组播
 CCTV8,http://www.yao87.com:4022/udp/239.76.246.158:1234$湖南电信组播
@@ -129,7 +129,7 @@ CCTV2,http://sweetown.fun:4000/udp/239.3.1.60:8084$北京联通组播
 CCTV3,http://sweetown.fun:4000/udp/239.3.1.172:8001$北京联通组播
 CCTV4,http://sweetown.fun:4000/udp/239.3.1.105:8092$北京联通组播
 CCTV5,http://sweetown.fun:4000/udp/239.3.1.173:8001$北京联通组播
-CCTV5+,http://sweetown.fun:4000/udp/239.3.1.130:8004$北京联通组播
+CCTV5+p,http://sweetown.fun:4000/udp/239.3.1.130:8004$北京联通组播
 CCTV6,http://sweetown.fun:4000/udp/239.3.1.174:8001$北京联通组播
 CCTV7,http://sweetown.fun:4000/udp/239.3.1.61:8104$北京联通组播
 CCTV8,http://sweetown.fun:4000/udp/239.3.1.175:8001$北京联通组播
@@ -148,7 +148,7 @@ CCTV2,http://php.jdshipin.com:8880/bst.php?id=cctv2hd8m/8000000$上海百事通P
 CCTV3,http://php.jdshipin.com:8880/bst.php?id=cctv38m/8000000$上海百事通PHP
 CCTV4,http://php.jdshipin.com:8880/bst.php?id=cctv4$上海百事通PHP
 CCTV5,http://php.jdshipin.com:8880/bst.php?id=cctv5hd/4000000$上海百事通PHP
-CCTV5+,http://php.jdshipin.com:8880/bst.php?id=cctv5phd/4000000$上海百事通PHP
+CCTV5+p,http://php.jdshipin.com:8880/bst.php?id=cctv5phd/4000000$上海百事通PHP
 CCTV6,http://php.jdshipin.com:8880/bst.php?id=cctv6hd/4000000$上海百事通PHP
 CCTV7,http://php.jdshipin.com:8880/bst.php?id=cctv7hd8m/8000000$上海百事通PHP
 CCTV8,http://php.jdshipin.com:8880/bst.php?id=cctv8hd/4000000$上海百事通PHP
