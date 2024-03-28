@@ -8,7 +8,7 @@
             "playerType": 1,
             "ua": "okhttp/3.12.13",
             "epg": "https://epg.112114.eu.org/",
-            "logo": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogoALL/NBTV/{name}.png"
+            "logo": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogoALL/{name}.png"
 	    }],
 
 
