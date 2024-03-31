@@ -70,7 +70,7 @@
 
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"360",
@@ -86,11 +86,7 @@
 
 
 
-{"key": "熊掌",
-"name": "🎦熊掌┃秒播",
-"type": 1,
-"api": "https://xzcjz.com/api.php/provide/vod",
-"jar":"https://agit.ai/zhanglc1987/tvboxtg/raw/branch/main/%e5%a4%a9%e5%a4%a9%e5%bc%80%e5%bf%83/spider.jar"},
+
 
 
 {"key": "csp_Nmys","name": "🌾┃农民┃影视(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://d.kstore.space/download/6793/tvbox/lib/nmys.json","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
@@ -98,15 +94,7 @@
 
 
 
-{"key":"南坊",
-"name":"☀南坊",
-"type":3,
-"api":"csp_AppMao",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"changeable":1,
-"ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"},
+
 
 
 
@@ -171,15 +159,7 @@
 
 
 
-{"key": "南瓜",
-"name": "南瓜┃APP",
-"type": 3,
-"searchable": 1,
-"quickSearch": 1,
-"api": "https://agit.ai/65012833/lib/raw/branch/master/drpy2.min.js",
-"ext": "https://agit.ai/65012833/lib/raw/branch/master/南瓜.js",
-"changeable": 0,
-"jar":"https://agit.ai/65012833/Jar/raw/branch/master/小米.jar"},
+{"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 
        
