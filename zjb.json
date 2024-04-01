@@ -85,7 +85,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://agit.ai/ystvy/tvboxtg/src/branch/main/%e8%8d%b7%e5%9f%8e%e8%8c%b6%e7%a7%80/json/98%e5%bd%b1%e8%a7%86.json",
+"ext": "https://agit.ai/ystvy/tvboxtg/raw/branch/main/%e8%8d%b7%e5%9f%8e%e8%8c%b6%e7%a7%80/json/98%e5%bd%b1%e8%a7%86.json",
 "jar":"https://agit.ai/ystvy/TVBox/raw/branch/main/spider.jar"},
 
 {"key": "csp_七新",
@@ -95,7 +95,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://agit.ai/ystvy/tvboxtg/src/branch/main/%e8%8d%b7%e5%9f%8e%e8%8c%b6%e7%a7%80/json/%e4%b8%83%e6%96%b0%e5%bd%b1%e8%a7%86.json",
+"ext": "https://agit.ai/ystvy/tvboxtg/rawbranch/main/%e8%8d%b7%e5%9f%8e%e8%8c%b6%e7%a7%80/json/%e4%b8%83%e6%96%b0%e5%bd%b1%e8%a7%86.json",
 "jar":"https://agit.ai/ystvy/TVBox/raw/branch/main/spider.jar"},
 
 {"key": "csp_蛋蛋",
@@ -105,7 +105,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://agit.ai/ystvy/tvboxtg/src/branch/main/%e8%8d%b7%e5%9f%8e%e8%8c%b6%e7%a7%80/json/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json",
+"ext": "https://agit.ai/ystvy/tvboxtg/raw/branch/main/%e8%8d%b7%e5%9f%8e%e8%8c%b6%e7%a7%80/json/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json",
 "jar":"https://agit.ai/ystvy/TVBox/raw/branch/main/spider.jar"},
 
 	
