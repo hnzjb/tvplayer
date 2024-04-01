@@ -85,8 +85,8 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://agit.ai/ystvy/tvboxtg/raw/branch/main/%e8%8d%b7%e5%9f%8e%e8%8c%b6%e7%a7%80/json/98%e5%bd%b1%e8%a7%86.json",
-"jar":"https://agit.ai/ystvy/TVBox/raw/branch/main/spider.jar"},
+"ext": "https://gitee.com/hnzjb/tvplayer/raw/master/JSON/98%E5%BD%B1%E8%A7%86.json",
+          "jar":"https://gitee.com/hnzjb/tvplayer/raw/master/JAR/spider_HCCX.jar"},
 
 {"key": "csp_七新",
 "name": "🅱️七新影视|T追剧",
@@ -95,8 +95,8 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://agit.ai/ystvy/tvboxtg/rawbranch/main/%e8%8d%b7%e5%9f%8e%e8%8c%b6%e7%a7%80/json/%e4%b8%83%e6%96%b0%e5%bd%b1%e8%a7%86.json",
-"jar":"https://agit.ai/ystvy/TVBox/raw/branch/main/spider.jar"},
+"ext": "https://gitee.com/hnzjb/tvplayer/raw/master/JSON/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json",
+"jar":"https://gitee.com/hnzjb/tvplayer/raw/master/JAR/spider_HCCX.jar"},
 
 {"key": "csp_蛋蛋",
 "name": "🅱️蛋蛋影视|T追剧",
@@ -105,8 +105,9 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://agit.ai/ystvy/tvboxtg/raw/branch/main/%e8%8d%b7%e5%9f%8e%e8%8c%b6%e7%a7%80/json/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json",
-"jar":"https://agit.ai/ystvy/TVBox/raw/branch/main/spider.jar"},
+"ext": "https://gitee.com/hnzjb/tvplayer/raw/master/JSON/%E8%9B%8B%E8%9B%8B%E5%BD%B1%E8%A7%86.json",
+"jar":"https://gitee.com/hnzjb/tvplayer/raw/master/JAR/spider_HCCX.jar"},
+
 
 	
 	
