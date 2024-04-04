@@ -62,7 +62,6 @@ CCTV13,http://pwd.unnas.top:4000/rtp/239.253.92.13:8008$河北联通组播
 CCTV14,http://pwd.unnas.top:4000/rtp/239.253.92.198:6063$河北联通组播
 CCTV15,http://pwd.unnas.top:4000/rtp/239.253.93.154:6322$河北联通组播
 CCTV17,http://pwd.unnas.top:4000/rtp/239.253.93.150:6318$河北联通组播
-CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 
 
 CCTV1,http://www.yao87.com:4022/udp/239.76.246.151:1234$湖南电信组播
@@ -83,6 +82,9 @@ CCTV14,http://www.yao87.com:4022/udp/239.76.246.164:1234$湖南电信组播
 CCTV15,http://www.yao87.com:4022/udp/239.76.245.252:1234$湖南电信组播
 CCTV16,http://www.yao87.com:4022/udp/239.76.246.98:1234$湖南电信组播
 CCTV17,http://www.yao87.com:4022/udp/239.76.245.238:1234$湖南电信组播
+
+CCTV4K,http://159.75.85.63:5679/cctv4k.php$肥羊
+CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 
 CCTV1,http://sweetown.fun:4000/udp/239.3.1.129:8008$北京联通组播
 CCTV2,http://sweetown.fun:4000/udp/239.3.1.60:8084$北京联通组播
