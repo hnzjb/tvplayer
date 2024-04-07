@@ -1,4 +1,4 @@
-浙江移动专用,#genre#
+t浙江移动专用,#genre#
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls
 CCTV2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/42329899.smil/index.m3u8?fmt=ts2hls
 CCTV3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/341734363.smil/index.m3u8?fmt=ts2hls
@@ -353,6 +353,11 @@ CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
 宁波TV4,http://220.185.84.34:4022/rtp/233.50.201.180:5140$浙江电信组播2
 
 影视娱乐,#genre#
+
+CHC高清电影,http://www.yao87.com:4022/udp/239.93.42.005:5140$湖南电信组播1
+CHC家庭影院,http://www.yao87.com:4022/udp/239.93.42.006:5140$湖南电信组播1
+CHC动作电影,http://www.yao87.com:4022/udp/239.93.42.007:5140$湖南电信组播1
+
 CHC高清电影,http://my6.x3322.net:9900/udp/239.93.42.005:5140$四川电信组播1
 CHC家庭影院,http://my6.x3322.net:9900/udp/239.93.42.006:5140$四川电信组播1
 CHC动作电影,http://my6.x3322.net:9900/udp/239.93.42.007:5140$四川电信组播1
