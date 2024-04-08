@@ -17,6 +17,7 @@ CCTV14,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/42329
 CCTV15,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8?fmt=ts2hls
 CCTV16,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/382070497.smil/index.m3u8?fmt=ts2hls
 CCTV17,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/117317448.smil/index.m3u8?fmt=ts2hls
+CCTV4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8
 
 浙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/42329891.smil/index.m3u8?fmt=ts2hls
 湖南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/42329937.smil/index.m3u8?fmt=ts2hls
