@@ -124,7 +124,7 @@ CCTV17,http://www.yao87.com:4022/udp/239.76.245.238:1234$湖南电信组播
 CCTV4K,http://159.75.85.63:5679/cctv4k.php$肥羊
 CCTV4K,https://tv.cry33.com/ys4k.php?id=4k$YS
 CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
-CCTV8k,https://tv.cry33.com/ys4k.php?id=8k$YS
+
 CCTV1,http://sweetown.fun:4000/udp/239.3.1.129:8008$北京联通组播
 CCTV2,http://sweetown.fun:4000/udp/239.3.1.60:8084$北京联通组播
 CCTV3,http://sweetown.fun:4000/udp/239.3.1.172:8001$北京联通组播
