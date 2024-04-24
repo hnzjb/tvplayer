@@ -264,7 +264,7 @@ CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
 怀旧剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.082:5540$吉林电信组播
 风云剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.114:5540$吉林电信组播
 高尔夫网球,http://majian.ixiaobai.net:58888/rtp/239.37.0.230:5540$吉林电信组播
-卫生健康,http://majian.ixiaobai.net:58888/rtp/239.37.0.229:5540$吉林电信组播
+卫生健康,http://36.49.52.39:8800/rtp/239.37.0.229:5540$吉林电信组播
 央视台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540$吉林电信组播
 
 
