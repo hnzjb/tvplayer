@@ -253,19 +253,6 @@ CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
 第一剧场,http://www.191919.xyz:8888/udp/238.1.79.63:4640$安徽电信组播
 风云音乐,http://www.191919.xyz:8888/udp/238.1.79.64:4648$安徽电信组播
 
-电视指南,http://majian.ixiaobai.net:58888/rtp/239.37.0.115:5540$吉林电信组播
-央视精品,http://majian.ixiaobai.net:58888/rtp/239.37.0.083:5540$吉林电信组播
-世界地理,http://majian.ixiaobai.net:58888/rtp/239.37.0.079:5540$吉林电信组播
-兵器科技,http://majian.ixiaobai.net:58888/rtp/239.37.0.084:5540$吉林电信组播
-女性时尚,http://majian.ixiaobai.net:58888/rtp/239.37.0.069:5540$吉林电信组播
-第一剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.078:5540$吉林电信组播
-风云足球,http://majian.ixiaobai.net:58888/rtp/239.37.0.080:5540$吉林电信组播
-风云音乐,http://majian.ixiaobai.net:58888/rtp/239.37.0.081:5540$吉林电信组播
-怀旧剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.082:5540$吉林电信组播
-风云剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.114:5540$吉林电信组播
-高尔夫网球,http://majian.ixiaobai.net:58888/rtp/239.37.0.230:5540$吉林电信组播
-卫生健康,http://36.49.52.39:8800/rtp/239.37.0.229:5540$吉林电信组播
-央视台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540$吉林电信组播
 
 
 
