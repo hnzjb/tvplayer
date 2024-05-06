@@ -82,6 +82,25 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226344/index.m3u8$HLJ
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8$HLJ  
 央视,#genre#
+CCTV1,http://sweetown.fun:4000/udp/239.3.1.129:8008$北京联通组播
+CCTV2,http://sweetown.fun:4000/udp/239.3.1.60:8084$北京联通组播
+CCTV3,http://sweetown.fun:4000/udp/239.3.1.172:8001$北京联通组播
+CCTV4,http://sweetown.fun:4000/udp/239.3.1.105:8092$北京联通组播
+CCTV5,http://sweetown.fun:4000/udp/239.3.1.173:8001$北京联通组播
+CCTV5+,http://sweetown.fun:4000/udp/239.3.1.130:8004$北京联通组播
+CCTV6,http://sweetown.fun:4000/udp/239.3.1.174:8001$北京联通组播
+CCTV7,http://sweetown.fun:4000/udp/239.3.1.61:8104$北京联通组播
+CCTV8,http://sweetown.fun:4000/udp/239.3.1.175:8001$北京联通组播
+CCTV9,http://sweetown.fun:4000/udp/239.3.1.62:8112$北京联通组播
+CCTV10,http://sweetown.fun:4000/udp/239.3.1.63:8116$北京联通组播
+CCTV11,http://sweetown.fun:4000/udp/239.3.1.152:8120$北京联通组播
+CCTV12,http://sweetown.fun:4000/udp/239.3.1.64:8124$北京联通组播
+CCTV13,http://sweetown.fun:4000/udp/239.3.1.124:8128$北京联通组播
+CCTV14,http://sweetown.fun:4000/udp/239.3.1.65:8132$北京联通组播
+CCTV15,http://sweetown.fun:4000/udp/239.3.1.153:8136$北京联通组播
+CCTV16,http://sweetown.fun:4000/udp/239.3.1.184:8001$北京联通组播
+CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
+
 CCTV1,http://www.191919.xyz:8888/udp/238.1.78.166:7200$安徽电信组播
 CCTV2,http://www.191919.xyz:8888/udp/238.1.78.235:7752$安徽电信组播
 CCTV3,http://www.191919.xyz:8888/udp/238.1.78.170:7232$安徽电信组播
@@ -125,29 +144,33 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php$肥羊
 CCTV4K,https://tv.cry33.com/ys4k.php?id=4k$YS
 CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 
-CCTV1,http://sweetown.fun:4000/udp/239.3.1.129:8008$北京联通组播
-CCTV2,http://sweetown.fun:4000/udp/239.3.1.60:8084$北京联通组播
-CCTV3,http://sweetown.fun:4000/udp/239.3.1.172:8001$北京联通组播
-CCTV4,http://sweetown.fun:4000/udp/239.3.1.105:8092$北京联通组播
-CCTV5,http://sweetown.fun:4000/udp/239.3.1.173:8001$北京联通组播
-CCTV5+,http://sweetown.fun:4000/udp/239.3.1.130:8004$北京联通组播
-CCTV6,http://sweetown.fun:4000/udp/239.3.1.174:8001$北京联通组播
-CCTV7,http://sweetown.fun:4000/udp/239.3.1.61:8104$北京联通组播
-CCTV8,http://sweetown.fun:4000/udp/239.3.1.175:8001$北京联通组播
-CCTV9,http://sweetown.fun:4000/udp/239.3.1.62:8112$北京联通组播
-CCTV10,http://sweetown.fun:4000/udp/239.3.1.63:8116$北京联通组播
-CCTV11,http://sweetown.fun:4000/udp/239.3.1.152:8120$北京联通组播
-CCTV12,http://sweetown.fun:4000/udp/239.3.1.64:8124$北京联通组播
-CCTV13,http://sweetown.fun:4000/udp/239.3.1.124:8128$北京联通组播
-CCTV14,http://sweetown.fun:4000/udp/239.3.1.65:8132$北京联通组播
-CCTV15,http://sweetown.fun:4000/udp/239.3.1.153:8136$北京联通组播
-CCTV16,http://sweetown.fun:4000/udp/239.3.1.184:8001$北京联通组播
-CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
+
 
 
 
 
 卫视,#genre#
+浙江卫视,http://sweetown.fun:4000/udp/239.3.1.137:8036$北京联通组播
+北京卫视,http://sweetown.fun:4000/udp/239.3.1.241:8000$北京联通组播
+湖南卫视,http://sweetown.fun:4000/udp/239.3.1.132:8012$北京联通组播
+江苏卫视,http://sweetown.fun:4000/udp/239.3.1.135:8028$北京联通组播
+东方卫视,http://sweetown.fun:4000/udp/239.3.1.136:8032$北京联通组播
+湖北卫视,http://sweetown.fun:4000/udp/239.3.1.138:8044$北京联通组播
+天津卫视,http://sweetown.fun:4000/udp/239.3.1.141:1234$北京联通组播
+山东卫视,http://sweetown.fun:4000/udp/239.3.1.209:8052$北京联通组播
+辽宁卫视,http://sweetown.fun:4000/udp/239.3.1.210:8056$北京联通组播
+安徽卫视,http://sweetown.fun:4000/udp/239.3.1.211:8064$北京联通组播
+贵州卫视,http://sweetown.fun:4000/udp/239.3.1.149:8076$北京联通组播
+东南卫视,http://sweetown.fun:4000/udp/239.3.1.156:8148$北京联通组播
+重庆卫视,http://sweetown.fun:4000/udp/239.3.1.122:8160$北京联通组播
+江西卫视,http://sweetown.fun:4000/udp/239.3.1.123:8164$北京联通组播
+广东卫视,http://sweetown.fun:4000/udp/239.3.1.142:8048$北京联通组播
+河北卫视,http://sweetown.fun:4000/udp/239.3.1.148:8072$北京联通组播
+深圳卫视,http://sweetown.fun:4000/udp/239.3.1.134:8020$北京联通组播
+吉林卫视,http://sweetown.fun:4000/udp/239.3.1.240:8172$北京联通组播
+黑龙江卫视,http://sweetown.fun:4000/udp/239.3.1.133:8016$北京联通组播
+
+
 浙江卫视,http://www.191919.xyz:8888/udp/238.1.78.164:7184$安徽电信组播
 北京卫视,http://www.191919.xyz:8888/udp/238.1.78.162:7168$安徽电信组播
 东方卫视,http://www.191919.xyz:8888/udp/238.1.78.163:7176$安徽电信组播
@@ -204,25 +227,6 @@ CCTV17,http://sweetown.fun:4000/udp/239.3.1.151:8144$北京联通组播
 陕西卫视,http://www.yao87.com:4022/udp/239.76.247.76:1234$湖南电信组播
 青海卫视,http://www.yao87.com:4022/udp/239.76.247.132:1234$湖南电信组播
 
-浙江卫视,http://sweetown.fun:4000/udp/239.3.1.137:8036$北京联通组播
-北京卫视,http://sweetown.fun:4000/udp/239.3.1.241:8000$北京联通组播
-湖南卫视,http://sweetown.fun:4000/udp/239.3.1.132:8012$北京联通组播
-江苏卫视,http://sweetown.fun:4000/udp/239.3.1.135:8028$北京联通组播
-东方卫视,http://sweetown.fun:4000/udp/239.3.1.136:8032$北京联通组播
-湖北卫视,http://sweetown.fun:4000/udp/239.3.1.138:8044$北京联通组播
-天津卫视,http://sweetown.fun:4000/udp/239.3.1.141:1234$北京联通组播
-山东卫视,http://sweetown.fun:4000/udp/239.3.1.209:8052$北京联通组播
-辽宁卫视,http://sweetown.fun:4000/udp/239.3.1.210:8056$北京联通组播
-安徽卫视,http://sweetown.fun:4000/udp/239.3.1.211:8064$北京联通组播
-贵州卫视,http://sweetown.fun:4000/udp/239.3.1.149:8076$北京联通组播
-东南卫视,http://sweetown.fun:4000/udp/239.3.1.156:8148$北京联通组播
-重庆卫视,http://sweetown.fun:4000/udp/239.3.1.122:8160$北京联通组播
-江西卫视,http://sweetown.fun:4000/udp/239.3.1.123:8164$北京联通组播
-广东卫视,http://sweetown.fun:4000/udp/239.3.1.142:8048$北京联通组播
-河北卫视,http://sweetown.fun:4000/udp/239.3.1.148:8072$北京联通组播
-深圳卫视,http://sweetown.fun:4000/udp/239.3.1.134:8020$北京联通组播
-吉林卫视,http://sweetown.fun:4000/udp/239.3.1.240:8172$北京联通组播
-黑龙江卫视,http://sweetown.fun:4000/udp/239.3.1.133:8016$北京联通组播
 
 
 港澳台,#genre#
