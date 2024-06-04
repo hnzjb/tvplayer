@@ -141,7 +141,7 @@ CCTV16,http://www.yao87.com:4022/udp/239.76.246.98:1234$湖南电信组播
 CCTV17,http://www.yao87.com:4022/udp/239.76.245.238:1234$湖南电信组播
 
 CCTV4K,http://159.75.85.63:5679/cctv4k.php$肥羊
-CCTV4K,https://tv.cry33.com/ys4k.php?id=4k$YS
+
 CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 
 
@@ -296,6 +296,21 @@ CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 
 
 上海,#genre#
+上海新闻综合,http://tx191.tpddns.cn:4022/udp/239.45.3.209:5140$上海电信组播1
+东方都市,http://tx191.tpddns.cn:4022/udp/239.45.3.236:5140$上海电信组播1
+上海东方影视,http://tx191.tpddns.cn:4022/udp/239.45.3.237:5140$上海电信组播1
+第一财经,http://tx191.tpddns.cn:4022/udp/239.45.3.211:5140$上海电信组播1
+五星体育,http://tx191.tpddns.cn:4022/udp/239.45.3.210:5140$上海电信组播1
+都市剧场,http://tx191.tpddns.cn:4022/udp/239.45.3.136:5140$上海电信组播1
+欢笑剧场,http://tx191.tpddns.cn:4022/udp/239.45.3.196:5140$上海电信组播1
+乐游,http://tx191.tpddns.cn:4022/udp/239.45.3.135:5140$上海电信组播1
+生活时尚,http://tx191.tpddns.cn:4022/udp/239.45.3.132:5140$上海电信组播1
+纪实人文,http://tx191.tpddns.cn:4022/udp/239.45.3.212:5140$上海电信组播1
+东方财经,http://tx191.tpddns.cn:4022/udp/239.45.1.119:5140$上海电信组播1
+七彩戏剧,http://tx191.tpddns.cn:4022/udp/239.45.3.61:5140$上海电信组播1
+法治天地,http://tx191.tpddns.cn:4022/udp/239.45.1.46:5140$上海电信组播1
+金鹰纪实,http://tx191.tpddns.cn:4022/udp/239.45.1.45:5140$上海电信组播1
+
 
 
 
@@ -336,16 +351,6 @@ CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 
 
 浙江,#genre#
-浙江钱江都市,http://iptv.myxcwh.com:8125/rtp/233.50.201.132:5140$浙江联通组播
-浙江民生,http://iptv.myxcwh.com:8125/rtp/233.50.201.136:5140$浙江联通组播
-浙江经济生活,http://iptv.myxcwh.com:8125/rtp/233.50.201.133:5140$浙江联通组播
-浙江教科影视,http://iptv.myxcwh.com:8125/rtp/233.50.201.134:5140$浙江联通组播
-浙江新闻,http://iptv.myxcwh.com:8125/rtp/233.50.201.137:5140$浙江联通组播
-浙江少儿,http://iptv.myxcwh.com:8125/rtp/233.50.201.138:5140$浙江联通组播
-宁波TV1,http://iptv.myxcwh.com:8125/rtp/233.50.201.168:5140$浙江联通组播
-宁波TV2,http://iptv.myxcwh.com:8125/rtp/233.50.201.178:5140$浙江联通组播
-宁波TV3,http://iptv.myxcwh.com:8125/rtp/233.50.201.179:5140$浙江联通组播
-宁波TV4,http://iptv.myxcwh.com:8125/rtp/233.50.201.180:5140$浙江联通组播
 
 
 浙江钱江都市,http://nas.jc-hqp.cn:9999/rtp/233.50.201.132:5140$浙江电信组播
