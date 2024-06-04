@@ -257,6 +257,21 @@ CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 第一剧场,http://www.191919.xyz:8888/udp/238.1.79.63:4640$安徽电信组播
 风云音乐,http://www.191919.xyz:8888/udp/238.1.79.64:4648$安徽电信组播
 
+电视指南,http://gang.pecmd.cn:6000/rtp/232.0.0.91:1234$辽宁联通组播
+央视精品,http://rt4.orangevip.top:8999/rtp/232.0.0.56:1234$辽宁联通组播
+兵器科技,http://rt4.orangevip.top:8999/rtp/232.0.0.58:1234$辽宁联通组播
+世界地理,http://rt4.orangevip.top:8999/rtp/232.0.0.63:1234$辽宁联通组播
+女性时尚,http://rt4.orangevip.top:8999/rtp/232.0.0.51:1234$辽宁联通组播
+第一剧场,http://rt4.orangevip.top:8999/rtp/232.0.0.29:1234$辽宁联通组播
+怀旧剧场,http://rt4.orangevip.top:8999/rtp/232.0.0.38:1234$辽宁联通组播
+风云剧场,http://rt4.orangevip.top:8999/rtp/232.0.0.45:1234$辽宁联通组播
+风云足球,http://rt4.orangevip.top:8999/rtp/232.0.0.52:1234$辽宁联通组播
+风云音乐,http://rt4.orangevip.top:8999/rtp/232.0.0.47:1234$辽宁联通组播
+央视台球,http://rt4.orangevip.top:8999/rtp/232.0.0.60:1234$辽宁联通组播
+高尔夫网球,http://n1.dddmmh.space:8088/udp/225.0.4.211:7980$重庆联通组播
+
+
+
 
 
 
