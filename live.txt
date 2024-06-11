@@ -448,6 +448,26 @@ CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 宁波TV4,http://guany.myds.me:25852/rtp/233.50.201.180:5140$浙江电信组播2
 
 影视娱乐,#genre#
+CHC动作电影,http://home.huaz.site:4000/udp/239.21.2.128:5002$山东电信
+CHC动作电影,http://iku.sunnyli.link:4144/udp/239.252.219.85:5140$江西电信
+CHC动作电影,http://n1.dddmmh.space:8088/udp/225.0.4.229:7980$重庆联通
+CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002$天津联通
+CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540$吉林电信
+CHC动作电影,http://ssrs2004.win:8888/rtp/239.112.205.207:5140$西安电信
+CHC家庭影院,http://home.huaz.site:4000/udp/239.21.2.126:5002$山东电信
+CHC家庭影院,http://iku.sunnyli.link:4144/udp/239.252.219.84:5140$江西电信
+CHC家庭影院,http://n1.dddmmh.space:8088/udp/225.0.4.228:7980$重庆联通
+CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002$天津联通
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540$吉林电信
+CHC家庭影院,http://ssrs2004.win:8888/rtp/239.112.205.205:5140$西安电信
+CHC家庭影院,http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100
+CHC影迷电影,http://home.huaz.site:4000/udp/239.21.2.127:5002$山东电信
+CHC影迷电影,http://n1.dddmmh.space:8088/udp/225.0.4.230:7980$重庆联通
+CHC影迷电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002$天津联通
+CHC影迷电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088$吉林电信
+CHC影迷电影,http://iku.sunnyli.link:4144/udp/239.252.219.83:5140$江西电信
+CHC影迷电影,http://ssrs2004.win:8888/rtp/239.112.205.206:5140$西安电信
+
 
 CHC影迷电影,http://www.yao87.com:4022/udp/239.76.245.242:1234$湖南电信组播1
 CHC家庭影院,http://www.yao87.com:4022/udp/239.76.245.241:1234$湖南电信组播1
