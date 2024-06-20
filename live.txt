@@ -45,12 +45,6 @@ CCTV4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/ind
 浙江少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/396328929.smil/index.m3u8?fmt=ts2hls
 浙江新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/396328936.smil/index.m3u8?fmt=ts2hls  
 
-杭州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
-杭州明珠,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
-杭州生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
-杭州影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
-杭州青少,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8
-
 宁波TV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/1/index.m3u8?fmt=ts2hls
 宁波TV2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235608/1/index.m3u8?fmt=ts2hls
 宁波TV3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235612/1/index.m3u8?fmt=ts2hls
