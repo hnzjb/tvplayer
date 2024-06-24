@@ -256,11 +256,11 @@ CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 港澳台,#genre#
 
 
+凤凰资讯.http://113.64.147.87:8081/hls/36/index.m3u8$广东揭阳电信酒店
+凤凰卫视.http://113.64.147.87:8081/hls/37/index.m3u8$广东揭阳电信酒店
+凤凰香港.http://113.64.147.87:8081/hls/38/index.m3u8$广东揭阳电信酒店
 
 
-凤凰资讯,http://120.84.121.199:808/hls/28/index.m3u8$广东揭阳电信酒店
-凤凰中文,http://120.84.121.199:808/hls/29/index.m3u8$广东揭阳电信酒店
-凤凰香港,http://120.84.121.199:808/hls/81/index.m3u8$广东揭阳电信酒店
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$备用
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$备用
