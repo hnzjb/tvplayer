@@ -258,9 +258,9 @@ CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64$mitv
 凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2$mitv
 
-凤凰资讯,http://113.64.147.87:8081/hls/36/index.m3u8$广东揭阳电信酒店
-凤凰中文,http://113.64.147.87:8081/hls/37/index.m3u8$广东揭阳电信酒店
-凤凰香港,http://113.64.147.87:8081/hls/38/index.m3u8$广东揭阳电信酒店
+凤凰资讯,http://113.64.147.19:8081/hls/36/index.m3u8$广东揭阳电信酒店
+凤凰中文,http://113.64.147.19:8081/hls/37/index.m3u8$广东揭阳电信酒店
+凤凰香港,http://113.64.147.19:8081/hls/38/index.m3u8$广东揭阳电信酒店
 
 
 
@@ -268,11 +268,11 @@ CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$备用
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8$备用
 
-凤凰中文,http://dqr028.oicp.net:4022/udp/239.93.0.162:2192$四川电信组播1
-凤凰资讯,http://dqr028.oicp.net:4022/udp/239.93.0.118:2191$四川电信组播1
 
 凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$四川电信组播
 凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191$四川电信组播
+凤凰中文,http://dqr028.oicp.net:4022/udp/239.93.0.162:2192$四川电信组播1
+凤凰资讯,http://dqr028.oicp.net:4022/udp/239.93.0.118:2191$四川电信组播1
 
 凤凰中文,http://a.5iu.xyz:10000/udp/239.255.30.50:8231$甘肃电信组播
 凤凰资讯,http://a.5iu.xyz:10000/udp/239.255.30.70:8231$甘肃电信组播
