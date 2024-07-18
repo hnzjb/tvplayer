@@ -1,5 +1,5 @@
 {
-"spider": "https://gitee.com/hnzjb/tvplayer/raw/master/JAR/Yoursmile.jar",
+"spider": "https://raw.gitmirror.com/hnzjb/tvplayer/main/Yoursmile.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
             "url": "https://raw.gitmirror.com/hnzjb/tvplayer/main/live.txt",
@@ -15,59 +15,6 @@
 {"key":"cj_360zy","name":"胜寒主线","type":1,"api":"https://360zy.com/api.php/provide/vod","playUrl":"https://www.360jiexi.com/player/?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["国产剧","大陆综艺","韩国剧","国产动漫","古装仙侠","现代都市","成长逆袭","年代穿越", "动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","日本动漫","香港剧","欧美剧","日本剧","港台综艺","日韩综艺"],
 "jar":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/Yoursmile.jar"},	
 {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},	
-{
-      "key": "Alist",
-      "name": "🌟小雅┃高清",
-      "type": 3,
-      "api": "http://jiandjh.zicp.net:5678/tvbox/libs/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": [
-        {
-          "name": "丫仙女",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/",
-          "search": true
-        },
-        {
-          "name": "每日更新",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/每日更新"
-        },
-        {
-          "name": "电影",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/电影"
-        },
-        {
-          "name": "电视剧",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/电视剧"
-        },
-        {
-          "name": "综艺",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/综艺"
-        },
-        {
-          "name": "纪录片",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/纪录片"
-        },
-        {
-          "name": "动漫",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/动漫"
-        },
-        {
-          "name": "儿童",
-          "server": "http://jiandjh.zicp.net:5678/",
-          "startPage": "/动漫/儿童"
-        }
-      ]
-    },
-
 
 
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
