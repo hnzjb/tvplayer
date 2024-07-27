@@ -1,3 +1,5 @@
+//副jar添加         ,"jar":""
+
 {
 "spider": "https://gitee.com/hnzjb/tvplayer/raw/master/JAR/Yoursmile.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
@@ -34,7 +36,8 @@
 "ext": "https://gitee.com/hnzjb/tvplayer/raw/master/JSON/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.json",
 "jar":"https://gitee.com/hnzjb/tvplayer/raw/master/JAR/spider_HCCX.jar"},
 
-{"key": "csp_蛋蛋",
+
+
 { "key": "API_火狐",
 "name": "火狐┃[有广告]",
 "type": 1,
@@ -90,8 +93,8 @@
 "quickSearch":0,
 "filterable":0,
 "ext": "187c59aceeae480e8ffaf99f9a46f2a5",
-"jar":""}],
-
+"jar":""}
+],
 
 
 
