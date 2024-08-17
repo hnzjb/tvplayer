@@ -164,7 +164,7 @@ CCTV15,http://www.yao87.com:4022/udp/239.76.245.252:1234$湖南电信组播
 CCTV16,http://www.yao87.com:4022/udp/239.76.246.98:1234$湖南电信组播
 CCTV17,http://www.yao87.com:4022/udp/239.76.245.238:1234$湖南电信组播
 
-CCTV4K,http://159.75.85.63:5679/cctv4k.php$肥羊
+CCTV4K,http://www.kitcc.cn:8887/udp/239.77.0.194:5146$广东电信组播
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://pwd.unnas.top:4000/rtp/239.253.93.134:6631$河北联通组播
 
