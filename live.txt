@@ -288,6 +288,7 @@ CCTV4K,http://www.kitcc.cn:8887/udp/239.77.0.194:5146$广东电信组播
 央视精品,http://nas.tuyuannet.cn:8800/rtp/239.37.0.083:5540$吉林电信
 
 怀旧剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.082:5540$吉林电信
+怀旧剧场,http://nas.hssvm.com:8888/udp/225.1.2.173:5002$天津联通
 
 第一剧场,http://nas.hssvm.com:8888/udp/225.1.2.175:5002$天津联通
 第一剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.078:5540$吉林电信
@@ -300,13 +301,11 @@ CCTV4K,http://www.kitcc.cn:8887/udp/239.77.0.194:5146$广东电信组播
 
 央视台球,http://nas.hssvm.com:8888/udp/225.1.2.170:5002$天津联通
 央视台球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540$吉林电信
-
 央视台球,http://www.hiliu.myds.me:8088/rtp/239.69.1.98:10224$湖北电信
 
 
 世界地理,http://nas.hssvm.com:8888/udp/225.1.2.171:5002$天津联通
 世界地理,http://nas.tuyuannet.cn:8800/rtp/239.37.0.079:5540$吉林电信
-
 世界地理,http://www.hiliu.myds.me:8088/rtp/239.69.1.91:10186$湖北电信
 
 
@@ -315,7 +314,6 @@ CCTV4K,http://www.kitcc.cn:8887/udp/239.77.0.194:5146$广东电信组播
 
 风云足球,http://nas.hssvm.com:8888/udp/225.1.2.168:5002$天津联通
 风云足球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.080:5540$吉林电信
-
 风云足球,http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126$湖北电信
 
 
