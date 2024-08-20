@@ -164,9 +164,10 @@ CCTV15,http://www.yao87.com:4022/udp/239.76.245.252:1234$湖南电信组播
 CCTV16,http://www.yao87.com:4022/udp/239.76.246.98:1234$湖南电信组播
 CCTV17,http://www.yao87.com:4022/udp/239.76.245.238:1234$湖南电信组播
 
+
+CCTV4K,http://zmcy.gzcy020.cn:50000/udp/239.77.1.180:5146$广东电信
+CCTV4K,http://majian.ixiaobai.net:5540/udp/239.37.0.34:5540$吉林电信
 CCTV4K,http://www.kitcc.cn:8887/udp/239.77.0.194:5146$广东电信组播
-
-
 
 
 
