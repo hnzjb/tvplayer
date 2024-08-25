@@ -448,6 +448,9 @@ CCTV4K,http://www.kitcc.cn:8887/udp/239.77.0.194:5146$广东电信组播
 宁波TV4,http://guany.myds.me:25852/rtp/233.50.201.180:5140$浙江电信组播2
 
 影视娱乐,#genre#
+CHC影迷电影,http://dsm.ikun.hn.cn:9981/stream/channelid/1898926728?profile=pass$代理
+CHC家庭影院,http://dsm.ikun.hn.cn:9981/stream/channelid/921606887?profile=pass$代理
+CHC动作电影,http://dsm.ikun.hn.cn:9981/stream/channelid/750230923?profile=pass$代理
 
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002$天津联通
 CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540$吉林电信
