@@ -1,5 +1,5 @@
 {
-"spider": "https://raw.kkgithub.com/hnzjb/tvplayer/main/Yoursmile.jar",
+"spider": "https://raw.github.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
             "url": "https://raw.github.com/hnzjb/tvplayer/main/live.txt",
