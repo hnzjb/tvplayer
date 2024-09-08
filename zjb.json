@@ -1,5 +1,5 @@
 {
-"spider": "https://raw.kkgithub.com/hnzjb/tvplayer/main/spider.jar",
+"spider": "https://raw.github.com/hnzjb/tvplayer/main/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
             "url": "https://raw.github.com/hnzjb/tvplayer/main/live.txt",
@@ -17,7 +17,7 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
-        },
+       },
         {
             "key": "csp_瓜子",
             "name": "🌰瓜子┃1080P",
@@ -80,25 +80,25 @@
             "key": "hipy_js_腾云驾雾[官]",
             "name": "🌞腾腾┃解析",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
+            "api": "https://raw.github.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/js/tx.js"
+            "ext": "https://raw.github.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/js/tx.js"
         },
         {
             "key": "guoguo",
             "name": "🌞果果┃解析",
             "type": 3,
-            "api": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
+            "api": "https://raw.github.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/js/guoguo.js"
+            "ext": "https://raw.github.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/js/guoguo.js"
         },
         {
             "key": "csp_NanGua",
