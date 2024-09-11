@@ -109,7 +109,10 @@
             "playerType": 2,
             "filterable": 1
         },
-        {
+	{"key":"兄弟","name":"💥兄弟","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"比特","name":"✌️比特","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"爱看","name":"❤️爱看","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1},
+	{
             "key": "csp_paopao",
             "name": "🫧菠菜┃1080P",
             "type": 3,
