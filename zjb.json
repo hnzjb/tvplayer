@@ -126,6 +126,7 @@
             "key": "csp_Nkdy",
             "name": "🥛耐看┃1080P",
             "type": 3,
+	    "searchable": 1,
             "changeable": 0,
             "api": "csp_Nkdy",
             "playerType": 2,
