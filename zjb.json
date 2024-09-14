@@ -94,6 +94,7 @@
             "filterable": 1
         },
 	{"key":"贱贱","name":"贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://raw.kkgithub.com/hnzjb/tvplayer/main/otherjar/drpy2.min.js","ext":"https://raw.kkgithub.com/hnzjb/tvplayer/main/otherjar/%E8%8D%90%E7%89%87.js","jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/fan.txt"},
+{"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://raw.kkgithubusercontent.com/ne7359/tvurl/main/json/jianpian.json$$$1", "timeout":60,"jar":"https://kkgithub.com/ne7359/tvurl/main/jar/pg.jar"},
 
 	{"key":"兄弟","name":"💥兄弟","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"比特","name":"✌️比特","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1},
