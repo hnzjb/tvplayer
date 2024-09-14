@@ -28,23 +28,7 @@
             "timeout": 30,
             "changeable": 0
         },
-        {
-            "key": "csp_wanou",
-            "name": "🧸玩偶┃盘聚4K",
-            "api": "csp_Wogg",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0,
-            "ext": {
-                "site_urls": [
-                    "https://wogg.xxooo.cf/",
-                    "https://www.wogg.bf/",
-                    "https://www.wogg.net/"
-                ]
-            }
-        },
+        
  {
             "key": "csp_LiteApple",
             "name": "🍎苹果┃1080P",
@@ -109,6 +93,8 @@
             "playerType": 2,
             "filterable": 1
         },
+	{"key":"贱贱","name":"贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://raw.kkgithub.com/hnzjb/tvplayer/main/otherjar/drpy2.min.js","ext":"https://raw.kkgithub.com/hnzjb/tvplayer/main/otherjar/%E8%8D%90%E7%89%87.js","jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/fan.txt"},
+
 	{"key":"兄弟","name":"💥兄弟","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"比特","name":"✌️比特","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"爱看","name":"❤️爱看","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -172,8 +158,28 @@
         },
 
 
+{"key":"PanSearch","name":"盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/fan.txt"},
 
-	
+
+{"key":"YiSo","name":"易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/fan.txt"},
+
+{
+            "key": "csp_wanou",
+            "name": "🧸玩偶┃盘聚4K",
+            "api": "csp_Wogg",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "ext": {
+                "site_urls": [
+                    "https://wogg.xxooo.cf/",
+                    "https://www.wogg.bf/",
+                    "https://www.wogg.net/"
+                ]
+            }
+        },	
 
 {"key":"push_agent",
 "name":"🍭推送┃直链",
