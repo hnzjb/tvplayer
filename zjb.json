@@ -1,8 +1,8 @@
 {
-"spider": "https://raw.github.com/hnzjb/tvplayer/main/spider.jar",
+"spider": "https://raw.kkgithub.com/hnzjb/tvplayer/main/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
-            "url": "https://raw.github.com/hnzjb/tvplayer/main/live.txt",
+            "url": "https://raw.kkgithub.com/hnzjb/tvplayer/main/live.txt",
             "type": 0,
             "playerType": 1,
             "ua": "okhttp/3.12.13",
@@ -64,19 +64,19 @@
             "key": "hipy_js_腾云驾雾[官]",
             "name": "🌞腾腾┃解析",
             "type": 3,
-            "api": "https://raw.github.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
+            "api": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "https://raw.github.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/js/tx.js"
+            "ext": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/js/tx.js"
         },
         {
             "key": "guoguo",
             "name": "🌞果果┃解析",
             "type": 3,
-            "api": "https://raw.github.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
+            "api": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -93,8 +93,8 @@
             "playerType": 2,
             "filterable": 1
         },
-	{"key":"贱贱","name":"贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://raw.github.com/hnzjb/tvplayer/main/otherjar/drpy2.min.js","ext":"https://raw.github.com/hnzjb/tvplayer/main/otherjar/%E8%8D%90%E7%89%87.js","jar":"https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
-{"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://raw.github.com/ne7359/tvurl/main/json/jianpian.json$$$1", "timeout":60,"jar":"https://github.com/ne7359/tvurl/main/jar/pg.jar"},
+	{"key":"贱贱","name":"贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://raw.kkgithub.com/hnzjb/tvplayer/main/otherjar/drpy2.min.js","ext":"https://raw.kkgithub.com/hnzjb/tvplayer/main/otherjar/%E8%8D%90%E7%89%87.js","jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/fan.txt"},
+{"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://raw.kkgithub.com/ne7359/tvurl/main/json/jianpian.json$$$1", "timeout":60,"jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/pg.jar"},
 
 	{"key":"兄弟","name":"💥兄弟","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"比特","name":"✌️比特","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1},
