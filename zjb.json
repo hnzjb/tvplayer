@@ -18,16 +18,7 @@
             "api": "csp_Douban",
             "searchable": 0
        },
-        {
-            "key": "csp_瓜子",
-            "name": "🌰瓜子┃1080P",
-            "api": "csp_Gz360",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0
-        },
+        
         
  {
             "key": "csp_LiteApple",
@@ -93,15 +84,69 @@
             "playerType": 2,
             "filterable": 1
         },
-{"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://raw.kkgithub.com/ne7359/tvurl/main/json/jianpian.json$$$1", "timeout":60,"jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/pg.jar"},
-{"key":"热播","name":"热播｜有广｜蓝光","type":3,"api":"csp_TTian1","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
-{"key":"天天","name":"天天｜有广｜蓝光","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
-{"key":"苹果","name":"青苹果｜影视｜蓝光","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
-{"key":"机器人","name":"机器｜全广｜蓝光","type":3,"api":"csp_Ikanbot","searchable":1,"changeable":1,"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+{"key":"荐片弹幕版",
+	"name":"荐片",
+	"type":3,
+	"api":"csp_Jianpian",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"https://raw.kkgithub.com/ne7359/tvurl/main/json/jianpian.json$$$1",
+	"timeout":60,"jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/pg.jar"},
+{"key":"热播",
+	"name":"热播｜有广｜蓝光",
+	"type":3,
+	"api":"csp_TTian1",
+	"playerType":1,
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":1,
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+{"key":"天天",
+	"name":"天天｜有广｜蓝光",
+	"type":3,
+	"api":"csp_TTian",
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":1,
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+{"key":"苹果",
+	"name":"青苹果｜影视｜蓝光",
+	"type":3,
+	"api":"csp_Xpg",
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":1,
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+{"key":"机器人",
+	"name":"机器｜全广｜蓝光",
+	"type":3,
+	"api":"csp_Ikanbot",
+	"searchable":1,
+	"changeable":1,
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 
-	{"key":"兄弟","name":"💥兄弟","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"比特","name":"✌️比特","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"爱看","name":"❤️爱看","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"兄弟",
+		"name":"💥兄弟",
+		"type":3,
+		"api":"csp_Xdys",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1},
+        {"key":"比特",
+		"name":"✌️比特",
+		"type":3,
+		"api":"csp_Bttwo",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1},
+	{"key":"爱看",
+		"name":"❤️爱看",
+		"type":3,
+		"api":"csp_Ikan",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1},
 	{
             "key": "csp_paopao",
             "name": "🫧菠菜┃1080P",
@@ -112,23 +157,7 @@
             "filterable": 1,
             "ext": "https://yigeg.pro"
         },
-        {
-            "key": "csp_Nkdy",
-            "name": "🥛耐看┃1080P",
-            "type": 3,
-	    "searchable": 1,
-            "changeable": 0,
-            "api": "csp_Nkdy",
-            "playerType": 2,
-            "filterable": 1
-        },
-        {
-            "key": "huohuo",
-            "name": "💥火火┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_SaoHuo"
-        },
+        
 
 	 {
             "key": "csp_农民",
@@ -160,12 +189,54 @@
             "api": "csp_Qiyou",
             "playerType": "1"
         },
+{
+            "key": "csp_瓜子",
+            "name": "🌰瓜子┃1080P",
+            "api": "csp_Gz360",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0
+        },
+	{
+            "key": "csp_Nkdy",
+            "name": "🥛耐看┃1080P",
+            "type": 3,
+	    "searchable": 1,
+            "changeable": 0,
+            "api": "csp_Nkdy",
+            "playerType": 2,
+            "filterable": 1
+        },
+        {
+            "key": "huohuo",
+            "name": "💥火火┃1080P",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_SaoHuo"
+        },
+
+{"key":"PanSearch",
+	"name":"盘Se┃阿狸",
+	"type":3,
+	"api":"csp_PanSearch",
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":0,
+	"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},
+	"jar":"https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
 
 
-{"key":"PanSearch","name":"盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
-
-
-{"key":"YiSo","name":"易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
+{"key":"YiSo",
+	"name":"易搜┃阿狸",
+	"type":3,
+	"api":"csp_YiSo",
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":0,
+	"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},
+	"jar":"https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
 
 {
             "key": "csp_wanou",
@@ -332,4 +403,5 @@
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]}
 ],
-"ads":["iqiyi.hbuioo.com","vip.ffzyad.com","wan.51img1.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+"ads":["iqiyi.hbuioo.com","vip.ffzyad.com","wan.51img1.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+}
