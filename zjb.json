@@ -19,18 +19,7 @@
             "searchable": 0
        },
         
-        
- {
-            "key": "csp_LiteApple",
-            "name": "🍎苹果┃1080P",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "filterable": 1,
-            "ext": ""
-        },
+
         {
             "key": "君君",
             "name": "🚗君君┃1080P",
@@ -153,13 +142,7 @@
         },
         
 
-	 {
-            "key": "csp_农民",
-            "name": "🐶汪汪┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_Nongm"
-        },
+	
         {
             "key": "csp_全网",
             "name": "🥣全网┃1080P",
@@ -168,13 +151,7 @@
             "api": "csp_Quanwk",
             "ext": "https://1.qkw1.cc/"
         },
-        {
-            "key": "csp_SP360",
-            "name": "🐠360┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_SP360"
-        },
+       
 	{
             "key": "QIYIU",
             "name": "🦌奇优┃1080P",
@@ -183,33 +160,7 @@
             "api": "csp_Qiyou",
             "playerType": "1"
         },
-{
-            "key": "csp_瓜子",
-            "name": "🌰瓜子┃1080P",
-            "api": "csp_Gz360",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0
-        },
-	{
-            "key": "csp_Nkdy",
-            "name": "🥛耐看┃1080P",
-            "type": 3,
-	    "searchable": 1,
-            "changeable": 0,
-            "api": "csp_Nkdy",
-            "playerType": 2,
-            "filterable": 1
-        },
-        {
-            "key": "huohuo",
-            "name": "💥火火┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_SaoHuo"
-        },
+
 
 {"key":"PanSearch",
 	"name":"盘Se┃阿狸",
