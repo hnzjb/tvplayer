@@ -84,15 +84,9 @@
             "playerType": 2,
             "filterable": 1
         },
-{"key":"荐片弹幕版",
-	"name":"荐片",
-	"type":3,
-	"api":"csp_Jianpian",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"ext":"https://raw.kkgithub.com/ne7359/tvurl/main/json/jianpian.json$$$1",
-	"timeout":60,"jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/pg.jar"},
+{"key":"荐片","name":"荐片｜磁力｜蓝光","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/lib/jianpian.json",
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+	
 {"key":"热播",
 	"name":"热播｜有广｜蓝光",
 	"type":3,
