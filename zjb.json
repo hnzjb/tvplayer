@@ -13,7 +13,7 @@
 
 "sites":[
 { "key": "豆瓣",
-            "name": "🌈豆瓣",
+            "name": "豆瓣┃评分",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -22,7 +22,7 @@
 
         {
             "key": "君君",
-            "name": "🚗君君┃1080P",
+            "name": "君君┃影视",
             "playerType": 1,
             "type": 3,
             "changeable": 0,
@@ -34,50 +34,34 @@
         },
         {
             "key": "freeok",
-            "name": "🦁freeOK┃独家",
+            "name": "freeOK┃影视",
             "type": 3,
             "changeable": 1,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "api": "csp_FreeOK"
         },
-	{
-            "key": "hipy_js_腾云驾雾[官]",
-            "name": "🌞腾腾┃解析",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/js/tx.js"
-        },
-        {
-            "key": "guoguo",
-            "name": "🌞果果┃解析",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "https://raw.github.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/js/guoguo.js"
-        },
+	
         {
             "key": "csp_NanGua",
-            "name": "🎃南瓜┃APP",
+            "name": "南瓜┃影视",
             "type": 3,
             "changeable": 1,
             "api": "csp_NanGua",
             "playerType": 2,
             "filterable": 1
         },
-{"key":"荐片","name":"荐片｜磁力｜蓝光","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/lib/jianpian.json",
+{"key":"荐片",
+	"name":"荐片磁力",
+	"type":3,
+	"api":"csp_Jianpian",
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":1,
+	"ext":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/lib/jianpian.json",
 	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 	
 {"key":"热播",
-	"name":"热播｜有广｜蓝光",
+	"name":"热播┃影视",
 	"type":3,
 	"api":"csp_TTian1",
 	"playerType":1,
@@ -86,7 +70,7 @@
 	"changeable":1,
 	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 {"key":"天天",
-	"name":"天天｜有广｜蓝光",
+	"name":"天天┃影视",
 	"type":3,
 	"api":"csp_TTian",
 	"searchable":1,
@@ -94,7 +78,7 @@
 	"changeable":1,
 	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 {"key":"苹果",
-	"name":"青苹果｜影视｜蓝光",
+	"name":"小苹果┃影视",
 	"type":3,
 	"api":"csp_Xpg",
 	"searchable":1,
@@ -102,7 +86,7 @@
 	"changeable":1,
 	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 {"key":"机器人",
-	"name":"机器｜全广｜蓝光",
+	"name":"爱看┃资源",
 	"type":3,
 	"api":"csp_Ikanbot",
 	"searchable":1,
@@ -110,29 +94,23 @@
 	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 
 	{"key":"兄弟",
-		"name":"💥兄弟",
+		"name":"兄弟┃影视",
 		"type":3,
 		"api":"csp_Xdys",
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1},
         {"key":"比特",
-		"name":"✌️比特",
+		"name":"比特┃影视",
 		"type":3,
 		"api":"csp_Bttwo",
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1},
-	{"key":"爱看",
-		"name":"❤️爱看",
-		"type":3,
-		"api":"csp_Ikan",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1},
+	
 	{
             "key": "csp_paopao",
-            "name": "🫧菠菜┃1080P",
+            "name": "菠菜┃影视",
             "type": 3,
             "changeable": 0,
             "api": "csp_Pptv",
@@ -145,7 +123,7 @@
 	
         {
             "key": "csp_全网",
-            "name": "🥣全网┃1080P",
+            "name": "快看┃资源",
             "type": 3,
             "changeable": 0,
             "api": "csp_Quanwk",
@@ -154,7 +132,7 @@
        
 	{
             "key": "QIYIU",
-            "name": "🦌奇优┃1080P",
+            "name": "奇优┃影视",
             "type": 3,
             "changeable": 0,
             "api": "csp_Qiyou",
@@ -163,7 +141,7 @@
 
 
 {"key":"PanSearch",
-	"name":"盘Se┃阿狸",
+	"name":"盘搜┃阿里云盘",
 	"type":3,
 	"api":"csp_PanSearch",
 	"searchable":1,
@@ -174,7 +152,7 @@
 
 
 {"key":"YiSo",
-	"name":"易搜┃阿狸",
+	"name":"易搜┃阿里云盘",
 	"type":3,
 	"api":"csp_YiSo",
 	"searchable":1,
@@ -182,24 +160,31 @@
 	"changeable":0,
 	"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},
 	"jar":"https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
-
 {
-            "key": "csp_wanou",
-            "name": "🧸玩偶┃盘聚4K",
-            "api": "csp_Wogg",
+            "key": "hipy_js_腾云驾雾[官]",
+            "name": "腾讯┃TV",
             "type": 3,
+            "api": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
             "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
             "changeable": 0,
-            "ext": {
-                "site_urls": [
-                    "https://wogg.xxooo.cf/",
-                    "https://www.wogg.bf/",
-                    "https://www.wogg.net/"
-                ]
-            }
-        },	
+            "ext": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/js/tx.js"
+        },
+        {
+            "key": "guoguo",
+            "name": "芒果┃TV",
+            "type": 3,
+            "api": "https://raw.kkgithub.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "https://raw.github.com/ls125781003/tvboxtg/main/%E5%B0%8F%E7%B1%B3/js/guoguo.js"
+        },
+
 
 {"key":"push_agent",
 "name":"🍭推送┃直链",
