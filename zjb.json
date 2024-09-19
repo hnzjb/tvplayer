@@ -41,7 +41,7 @@
         },
         {
             "key": "freeok",
-            "name": "freeOK┃影视",
+            "name": "欧凯┃影视",
             "type": 3,
             "changeable": 1,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
@@ -78,7 +78,7 @@
 	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 
 {"key":"苹果",
-	"name":"小苹果┃影视",
+	"name":"苹果┃影视",
 	"type":3,
 	"api":"csp_Xpg",
 	"searchable":1,
@@ -120,7 +120,7 @@
         },
         
 {"key":"可可",
-	"name":"可可|影视",
+	"name":"可可┃影视",
 	"type":3,
 	"api":"csp_Keke",
 	"searchable":1,
@@ -128,7 +128,7 @@
 	"filterable":1,
 	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/mz.jar"},
 {"key":"大米",
-	"name":"大米｜影视",
+	"name":"大米┃影视",
 	"type":3,
 	"api":"csp_AppDaMi",
 	"searchable":1,
