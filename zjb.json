@@ -18,6 +18,20 @@
             "api": "csp_Douban",
             "searchable": 0
        },
+
+	  {
+            "key": "三六零弹幕",
+            "name": "360┃影视",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            ,
+       "jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar"}
+        },
       {"key":"天天",
 	"name":"天天┃影视",
 	"type":3,
@@ -202,6 +216,23 @@
 		"type": 3,
 		"url": "Demo"
 	},
+	{
+            "name": "XGJ专线",
+            "url": "http://43.248.100.147:6068/KEY/70xgjgj.php?url=",
+            "flag": [
+                "youku",
+                "qq",
+                "qiyi",
+                "bilibili",
+                "mgtv",
+                "pptv",
+                "xigua"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
 	 {
             "name": "4K解析",
             "type": 1,
