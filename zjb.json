@@ -27,11 +27,11 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": {
-                "danmu": true}
-            ,
-       "jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar"}
-        },
+		"ext": {
+                "danmu": true
+            },  
+        "jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar"}
+        
       {"key":"天天",
 	"name":"天天┃影视",
 	"type":3,
