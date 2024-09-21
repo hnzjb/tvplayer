@@ -61,7 +61,16 @@
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "api": "csp_FreeOK"
         },
-	
+	{
+            "key": "追剧影视",
+            "name": "追剧｜APP",
+            "type": 3,
+            "api": "csp_AppZJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://z.kzjtv.com/",
+         "jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar"  },
         {
             "key": "csp_NanGua",
             "name": "南瓜┃影视",
