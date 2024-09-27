@@ -1,8 +1,8 @@
 {
-"spider": "https://raw.github.com/hnzjb/tvplayer/main/spider.jar",
+"spider": "https://raw.kkgithub.com/hnzjb/tvplayer/main/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
-            "url": "https://raw.github.com/hnzjb/tvplayer/main/live.txt",
+            "url": "https://raw.kkgithub.com/hnzjb/tvplayer/main/live.txt",
             "type": 0,
             "playerType": 1,
             "ua": "okhttp/3.12.13",
@@ -30,7 +30,7 @@
 		"ext": {
                 "danmu": true
             },  
-        "jar":"https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar"},
+        "jar":"https://raw.kkgithub.com/PizazzGY/TVBox_warehouse/main/spider.jar"},
         
       {"key":"天天",
 	"name":"天天┃影视",
@@ -39,7 +39,7 @@
 	"searchable":1,
 	"quickSearch":1,
 	"changeable":1,
-	"jar":"https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},  
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},  
 
         {
             "key": "君君",
@@ -70,7 +70,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://z.kzjtv.com/",
-         "jar":"https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar"  },
+         "jar":"https://raw.kkgithub.com/PizazzGY/TVBox_warehouse/main/spider.jar"  },
         {
             "key": "csp_NanGua",
             "name": "南瓜┃影视",
@@ -87,8 +87,8 @@
 	"searchable":1,
 	"quickSearch":1,
 	"changeable":1,
-	"ext":"https://raw.github.com/yuanzl77/TVBox-url/main/lib/jianpian.json",
-	"jar":"https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+	"ext":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/lib/jianpian.json",
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 	
 {"key":"热播",
 	"name":"热播┃影视",
@@ -98,7 +98,7 @@
 	"searchable":1,
 	"quickSearch":1,
 	"changeable":1,
-	"jar":"https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 
 {"key":"苹果",
 	"name":"苹果┃影视",
@@ -107,14 +107,14 @@
 	"searchable":1,
 	"quickSearch":1,
 	"changeable":1,
-	"jar":"https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 {"key":"机器人",
 	"name":"爱看┃资源",
 	"type":3,
 	"api":"csp_Ikanbot",
 	"searchable":1,
 	"changeable":1,
-	"jar":"https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 {"key":"csp_骚火",
 	"name":"骚火┃影视",
 	"type":3,
@@ -122,7 +122,7 @@
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1,
-	"jar": "https://raw.github.com/liu673cn/box/refs/heads/main/libs/jar/HCCX.jar",
+	"jar": "https://raw.kkgithub.com/liu673cn/box/refs/heads/main/libs/jar/HCCX.jar",
 	"ext":"https://github.com/liu673cn/box/raw/refs/heads/main/libs/hccx/%E9%AA%9A%E7%81%AB%E5%BD%B1%E8%A7%86.json"},
 	{"key":"兄弟",
 		"name":"兄弟┃影视",
@@ -157,7 +157,7 @@
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1,
-	"jar":"https://raw.github.com/yuanzl77/TVBox-url/main/jar/mz.jar"},
+	"jar":"https://raw.kkgithub.com/yuanzl77/TVBox-url/main/jar/mz.jar"},
 
 {
             "key": "大米星球",
@@ -167,7 +167,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-       "jar":"https://github.ednovas.xyz/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar" },	
+       "jar":"https://github.ednovas.xyz/https://raw.kkgithub.com/PizazzGY/TVBox_warehouse/main/spider.jar" },	
         {
             "key": "csp_全网",
             "name": "快看┃资源",
@@ -195,7 +195,7 @@
 	"quickSearch":1,
 	"changeable":0,
 	"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},
-	"jar":"https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
+	"jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/fan.txt"},
 
 
 {"key":"YiSo",
@@ -206,7 +206,7 @@
 	"quickSearch":1,
 	"changeable":0,
 	"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},
-	"jar":"https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
+	"jar":"https://raw.kkgithub.com/ne7359/tvurl/main/jar/fan.txt"},
 
 
 
