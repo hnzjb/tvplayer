@@ -70,7 +70,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://z.kzjtv.com/",
-         "jar":"https://github.ednovas.xyz/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar"  },
+         "jar":"https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar"  },
         {
             "key": "csp_NanGua",
             "name": "南瓜┃影视",
