@@ -18,7 +18,9 @@
             "api": "csp_Douban",
             "searchable": 0
        },
+	
 
+{"key":"爱奇异","name":"爱奇异┃影视","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/gyjune/tianwei/raw/master/drpy2.min.js","ext":"https://gitee.com/gyjune/gwsp/raw/master/lib/aiqiyi.js","jar":"https://gitee.com/gyjune/gwsp/raw/master/tvkj.jar"},
 	  {
             "key": "三六零弹幕",
             "name": "360┃影视",
