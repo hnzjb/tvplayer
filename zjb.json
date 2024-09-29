@@ -53,6 +53,37 @@
             "filterable": 1,
             "ext": "http://122.228.85.203:1000/api.php/app/"
         },
+"key": "4K影院",
+      "name": "4K┃影视",
+      "type": 3,
+	"searchable": 1,
+            "quickSearch": 1,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "https://weixine.net/js/4kav.js","jar":"https://raw.kkgithub.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar"
+    },
+{
+      "key": "瓜子app",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "https://weixine.net/js/guazi.js","jar":"https://raw.kkgithub.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar"
+
+    },
+{
+      "key": "厂长秒播",
+      "name": "厂长┃影视",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10,"jar":"https://raw.kkgithub.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar"
+
+    },
+	
         {
             "key": "freeok",
             "name": "欧凯┃影视",
