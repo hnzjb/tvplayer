@@ -43,18 +43,7 @@
 	"changeable":1,
 	"jar":"https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},  
 
-        {
-            "key": "君君",
-            "name": "君君┃影视",
-            "playerType": 1,
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://122.228.85.203:1000/api.php/app/"
-        },
+        
 {"key": "4K影院",
       "name": "4K┃影视",
       "type": 3,
@@ -98,14 +87,7 @@
     },
 
 	
-        {
-            "key": "freeok",
-            "name": "欧凯┃影视",
-            "type": 3,
-            "changeable": 1,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_FreeOK"
-        },
+        
 	{
             "key": "追剧影视",
             "name": "追剧｜APP",
@@ -163,19 +145,7 @@
 {"key":"csp_骚火",
 	"name":"骚火┃影视",
 	"type":3,
-	"api":"csp_XBPQ",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"jar": "https://raw.github.com/liu673cn/box/refs/heads/main/libs/jar/HCCX.jar",
-	"ext":"https://raw.github.com/liu673cn/box/refs/heads/main/libs/hccx/%E9%AA%9A%E7%81%AB%E5%BD%B1%E8%A7%86.json"},
-	{"key":"兄弟",
-		"name":"兄弟┃影视",
-		"type":3,
-		"api":"csp_Xdys",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1},
+
         {"key":"比特",
 		"name":"比特┃影视",
 		"type":3,
