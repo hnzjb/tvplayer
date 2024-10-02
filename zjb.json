@@ -1,5 +1,5 @@
 {
-"spider": "https://github.moeyy.xyz/https://raw.github.com/hnzjb/tvplayer/main/spiderse.jar",
+"spider": "https://github.moeyy.xyz/https://raw.github.com/hnzjb/tvplayer/main/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
             "url": "https://github.moeyy.xyz/https://raw.github.com/hnzjb/tvplayer/main/live.txt",
@@ -60,29 +60,7 @@
       "ext": "https://weixine.net/js/guazi.js","jar":"https://github.moeyy.xyz/https://raw.github.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar"
 
     },
-{
-            "key": "junjun",
-            "name": "君君┃影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "./api/appys.js",
-            "ext": {
-                "host": "http://122.228.85.203:1000/api.php/app/",
-                "*": [
-                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
-                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
-                ]
-            }
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "厂长┃影视",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "ext": "https://www.czzy.site/"
-        },
+
 ​
  {
       "key": "AI2",
