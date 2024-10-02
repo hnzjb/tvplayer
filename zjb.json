@@ -60,20 +60,8 @@
       "ext": "https://weixine.net/js/guazi.js","jar":"https://github.moeyy.xyz/https://raw.github.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar"
 
     },
-{
-      "key": "厂长秒播",
-      "name": "厂长┃影视",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "jar":"https://github.moeyy.xyz/https://raw.github.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar"
-
-    },
+{"key":"厂长","name":"厂长|影视","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.github.com/yuanzl77/TVBox-url/refs/heads/main/jar/spider.jar"},
+​
  {
       "key": "AI2",
       "name": "AI2┃仅搜索",
