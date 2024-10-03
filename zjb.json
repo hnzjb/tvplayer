@@ -157,14 +157,7 @@
             "ext": "https://yigeg.pro"
         },
         
-{"key":"可可",
-	"name":"可可┃影视",
-	"type":3,
-	"api":"csp_Keke",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"jar":"https://github.moeyy.xyz/https://raw.github.com/yuanzl77/TVBox-url/main/jar/mz.jar"},
+
 
 {
             "key": "大米星球",
@@ -175,14 +168,7 @@
             "quickSearch": 1,
             "filterable": 1,
        "jar":"https://github.moeyy.xyz/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar" },	
-        {
-            "key": "csp_全网",
-            "name": "快看┃资源",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_Quanwk",
-            "ext": "https://1.qkw1.cc/"
-        },
+        
        
 	{
             "key": "QIYIU",
