@@ -70,7 +70,7 @@ CCTV4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/ind
 
 黑龙江移动,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8$HLJ
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226540/index.m3u8$HLJ
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$HLJ
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$HLJ
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$HLJ
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$HLJ
