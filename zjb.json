@@ -20,21 +20,7 @@
        },
 	
 
-{"key":"爱奇异","name":"爱奇异┃影视","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/gyjune/tianwei/raw/master/drpy2.min.js","ext":"https://gitee.com/gyjune/gwsp/raw/master/lib/aiqiyi.js","jar":"https://gitee.com/gyjune/gwsp/raw/master/tvkj.jar"},
-	  {
-            "key": "三六零弹幕",
-            "name": "360┃影视",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-		"ext": {
-                "danmu": true
-            },  
-        "jar":"https://github.moeyy.xyz/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar"},
-        
-      {"key":"天天",
+ {"key":"天天",
 	"name":"天天┃影视",
 	"type":3,
 	"api":"csp_TTian",
@@ -62,7 +48,7 @@
     },
 {
 "key": "csp_Czsapp",
-"name": "厂长┃1080P",
+"name": "厂长┃影视",
 "type": 3,
 "api": "csp_Czsapp",
 "playerType": 2,
@@ -179,7 +165,27 @@
             "playerType": "1"
         },
 
-
+{"key":"爱奇异",
+	"name":"爱奇异┃影视解析",
+	"type":3,
+	"ua": "okhttp/3.15",
+	"api":"https://gitee.com/gyjune/tianwei/raw/master/drpy2.min.js",
+	"ext":"https://gitee.com/gyjune/gwsp/raw/master/lib/aiqiyi.js",
+	"jar":"https://gitee.com/gyjune/gwsp/raw/master/tvkj.jar"},
+	  {
+            "key": "三六零弹幕",
+            "name": "360┃影视解析",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+		"ext": {
+                "danmu": true
+            },  
+        "jar":"https://github.moeyy.xyz/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar"},
+        
+     
 {"key":"PanSearch",
 	"name":"盘搜┃阿里云盘",
 	"type":3,
