@@ -1,4 +1,4 @@
-{
+%{
 "spider": "https://github.moeyy.xyz/https://raw.github.com/hnzjb/tvplayer/main/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
@@ -224,10 +224,6 @@
 
 
 "parses":[{
-		"name": "Web聚合",
-		"type": 3,
-		"url": "Web"
-	}, {
 		"name": "Json聚合",
 		"type": 3,
 		"url": "Demo"
