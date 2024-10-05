@@ -210,9 +210,8 @@ CCTV17,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000006000268004/inde
 天津卫视,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000003475/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=3$易视腾
 云南卫视,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=3$易视腾
 重庆卫视,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000001000001096/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3$易视腾
-
-新闻综合,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3$动态BST				
-东方影视,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3$动态BST				
+上海新闻综合,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3$动态BST				
+上海东方影视,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3$动态BST				
 东方都市,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3$动态BST				
 第一财经,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3$动态BST
 东方财经,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3$动态BST				
@@ -226,7 +225,6 @@ CCTV17,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000006000268004/inde
 劲爆体育,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3$动态BST				
 魅力足球,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$动态BST				
 七彩戏剧,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3$动态BST	
-游戏风云,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3$动态BST
 生活时尚,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3$动态BST	
 纪实人文,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3$动态BST	
 乐游,http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3$动态BST
