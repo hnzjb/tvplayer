@@ -1,8 +1,8 @@
 {
-"spider": "https://github.moeyy.xyz/https://raw.github.com/hnzjb/tvplayer/main/spider.jar",
+"spider": "https://ghproxy.net/https://raw.github.com/hnzjb/tvplayer/main/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
-            "url": "https://github.moeyy.xyz/https://raw.github.com/hnzjb/tvplayer/main/live.txt",
+            "url": "https://ghproxy.net/https://raw.github.com/hnzjb/tvplayer/main/live.txt",
             "type": 0,
             "playerType": 1,
             "ua": "okhttp/3.12.13",
@@ -27,7 +27,7 @@
 	"searchable":1,
 	"quickSearch":1,
 	"changeable":1,
-	"jar":"https://github.moeyy.xyz/https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},  
+	"jar":"https://ghproxy.net/https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},  
 
         
 {"key": "4K影院",
@@ -36,14 +36,14 @@
 	"searchable": 1,
             "quickSearch": 1,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://weixine.net/js/4kav.js","jar":"https://github.moeyy.xyz/https://raw.github.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar"
+      "ext": "https://weixine.net/js/4kav.js","jar":"https://ghproxy.net/https://raw.github.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar"
     },
 {
       "key": "瓜子app",
       "name": "瓜子┃影视",
       "type": 3,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://weixine.net/js/guazi.js","jar":"https://github.moeyy.xyz/https://raw.github.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar"
+      "ext": "https://weixine.net/js/guazi.js","jar":"https://ghproxy.net/https://raw.github.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar"
 
     },
 {
@@ -63,7 +63,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "playerType": 2,
-      "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji","jar":"https://github.moeyy.xyz/https://raw.github.com/zerowj/tvbox/main/fix240524.jar"
+      "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji","jar":"https://ghproxy.net/https://raw.github.com/zerowj/tvbox/main/fix240524.jar"
     },
 
 	
@@ -77,7 +77,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://z.kzjtv.com/",
-         "jar":"https://github.moeyy.xyz/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar"  },
+         "jar":"https://ghproxy.net/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar"  },
         {
             "key": "csp_NanGua",
             "name": "南瓜┃影视",
@@ -94,8 +94,8 @@
 	"searchable":1,
 	"quickSearch":1,
 	"changeable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.github.com/yuanzl77/TVBox-url/main/lib/jianpian.json",
-	"jar":"https://github.moeyy.xyz/https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+	"ext":"https://ghproxy.net/https://raw.github.com/yuanzl77/TVBox-url/main/lib/jianpian.json",
+	"jar":"https://ghproxy.net/https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 	
 {"key":"热播",
 	"name":"热播┃影视",
@@ -105,7 +105,7 @@
 	"searchable":1,
 	"quickSearch":1,
 	"changeable":1,
-	"jar":"https://github.moeyy.xyz/https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+	"jar":"https://ghproxy.net/https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 
 {"key":"苹果",
 	"name":"苹果┃影视",
@@ -114,14 +114,14 @@
 	"searchable":1,
 	"quickSearch":1,
 	"changeable":1,
-	"jar":"https://github.moeyy.xyz/https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+	"jar":"https://ghproxy.net/https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 {"key":"机器人",
 	"name":"爱看┃资源",
 	"type":3,
 	"api":"csp_Ikanbot",
 	"searchable":1,
 	"changeable":1,
-	"jar":"https://github.moeyy.xyz/https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
+	"jar":"https://ghproxy.net/https://raw.github.com/yuanzl77/TVBox-url/main/jar/spider.jar"},
 
 
         {"key":"比特",
@@ -153,7 +153,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-       "jar":"https://github.moeyy.xyz/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar" },	
+       "jar":"https://ghproxy.net/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar" },	
         
        
 	{
@@ -183,7 +183,7 @@
 		"ext": {
                 "danmu": true
             },  
-        "jar":"https://github.moeyy.xyz/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar"},
+        "jar":"https://ghproxy.net/https://raw.github.com/PizazzGY/TVBox_warehouse/main/spider.jar"},
         
      
 {"key":"PanSearch",
@@ -194,7 +194,7 @@
 	"quickSearch":1,
 	"changeable":0,
 	"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},
-	"jar":"https://github.moeyy.xyz/https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
+	"jar":"https://ghproxy.net/https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
 
 
 {"key":"YiSo",
@@ -205,7 +205,7 @@
 	"quickSearch":1,
 	"changeable":0,
 	"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},
-	"jar":"https://github.moeyy.xyz/https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
+	"jar":"https://ghproxy.net/https://raw.github.com/ne7359/tvurl/main/jar/fan.txt"},
 
 
 
