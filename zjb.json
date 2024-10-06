@@ -68,7 +68,7 @@
     },
 
 {"key":"萌米",
-	"name":"萌米┃多线",
+	"name":"萌米(天天)┃多线",
 	"type":3,
 	"api":"csp_AppTT",
 	"timeout":15,
@@ -140,16 +140,7 @@
 		"quickSearch":1,
 		"filterable":1},
 	
-	{
-            "key": "csp_paopao",
-            "name": "菠菜┃影视",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_Pptv",
-            "playerType": 2,
-            "filterable": 1,
-            "ext": "https://yigeg.pro"
-        },
+	
         
 {"key": "csp_七新","name": "七新┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,
          "ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
