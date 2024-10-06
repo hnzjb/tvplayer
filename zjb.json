@@ -151,18 +151,13 @@
             "ext": "https://yigeg.pro"
         },
         
-{"key": "csp_七新","name": "七新秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,
+{"key": "csp_七新","name": "七新┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,
          "ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
         "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
-        "分类url":"https://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
+        "分类url":"https://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"},
+	"jar":"https://gitee.com/hnzjb/tvplayer/raw/master/JAR/hanhan.jar"},
 	 
-{"key":"csp_xBPQ_FreeOK","name":"️FreeOK","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#动漫$3#综艺$4"}},
-{"key":"Freeok","name":"Freeok","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
-		"请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-		"分类":"电影&剧集&动漫&综艺","分类值":"1&2&3&4","副标题":"<div class=\"module-item-note\">&&</div>","嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-		"线路数组":"data-dropdown-value=&&</div>[不包含:夸克]","线路标题":"<span>&&</small>","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"<p>&&</p>"},"jar":""},  
+ 
 
 {
             "key": "大米星球",
