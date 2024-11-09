@@ -240,7 +240,7 @@ CCTV2,http://yulang132.cn:58888/udp/239.93.1.23:6000$四川电信组播
 CCTV3,http://yulang132.cn:58888/udp/239.93.1.11:2223$四川电信组播
 CCTV4,http://yulang132.cn:58888/udp/239.93.1.105:5140$四川电信组播
 CCTV5,http://yulang132.cn:58888/udp/239.93.42.37:5140$四川电信组播
-CCTV5＋,http://yulang132.cn:58888/udp/239.93.1.36:8004$四川电信组播
+CCTV5+,http://yulang132.cn:58888/udp/239.93.1.36:8004$四川电信组播
 CCTV6,http://yulang132.cn:58888/udp/239.93.1.13:2226$四川电信组播
 CCTV7,http://yulang132.cn:58888/udp/239.93.1.67:5140$四川电信组播
 CCTV8,http://yulang132.cn:58888/udp/239.93.42.39:5140$四川电信组播
