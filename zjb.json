@@ -2,7 +2,7 @@
 "spider": "https://gitee.com/hnzjb/tvplayer/raw/master/JAR/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/hnzjb/tvplayer/main/live.txt",
+            "url": "https://raw.github.com/hnzjb/tvplayer/refs/heads/main/live.txt",
 
 
 
