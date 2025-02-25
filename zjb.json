@@ -2,7 +2,7 @@
 "spider": "https://gitee.com/hnzjb/tvplayer/raw/master/JAR/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
-            "url": "https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/live.txt",
+            "url": "https://raw.github.com/hnzjb/tvplayer/refs/heads/main/live.txt",
 
 
 
@@ -151,12 +151,7 @@
 		"filterable":1},
 	
 	
-        
-{"key": "csp_七新","name": "七新┃影视","type":3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,
-         "ext": {"主页url":"https://www.7xdy.com/","简介":"+<span class=\"detail-content\" style=*>&&</span>",
-        "影片状态":"状态：&&</p>","搜索url":"/search.php;post;searchword={wd}","线路数组":"<h3&&/h3>","线路标题":"胜寒+src=*>&&<",
-        "分类url":"https://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"},
-	"jar":"https://gitee.com/hnzjb/tvplayer/raw/master/JAR/hanhan.jar"},
+
 	 
  
 
@@ -180,14 +175,7 @@
             "playerType": "1"
         },
 
-{"key":"爱奇异",
-	"name":"爱奇异┃影视解析",
-	"type":3,
-	"ua": "okhttp/3.15",
-	"api":"https://gitee.com/gyjune/tianwei/raw/master/drpy2.min.js",
-	"ext":"https://gitee.com/gyjune/gwsp/raw/master/lib/aiqiyi.js",
-	"jar":"https://gitee.com/gyjune/gwsp/raw/master/tvkj.jar"},
-	  {
+  {
             "key": "三六零弹幕",
             "name": "360┃影视解析",
             "type": 3,
