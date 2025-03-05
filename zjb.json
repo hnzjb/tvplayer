@@ -2,7 +2,7 @@
 "spider": "https://gitee.com/hnzjb/tvplayer/raw/master/JAR/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
-            "url": "https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/live.txt",
+            "url": "https://raw.github.com/hnzjb/tvplayer/refs/heads/main/live.txt",
 
 
 
@@ -24,16 +24,16 @@
 	
 
  {"key":"萌米","name":"天天┃多线","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg==",
-	"jar":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
+	"jar":"https://raw.github.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
 
 
 {"key":"糯米","name":"糯米┃秒播","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1,
-	"jar":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
+	"jar":"https://raw.github.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
 
 
 
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺┃官源","type":3,"api":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
-	"jar":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
+{"key":"drpy_js_奇珍异兽","name":"爱奇艺┃官源","type":3,"api":"https://raw.github.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","ext":"https://raw.github.com/qist/tvbox/refs/heads/master/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
+	"jar":"https://raw.github.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
 
 
         
@@ -192,7 +192,7 @@
             },  
         "jar":"https://gitee.com/hnzjb/tvplayer/raw/master/JAR/PizazzGY.jar"},
 {"key":"drpy_js_奇珍异兽","name":"爱奇艺┃官源","type":3,"api":"https://gitee.com/hnzjb/tvplayer/raw/master/JSON/lib/drpy2.min.js","ext":"https://gitee.com/hnzjb/tvplayer/raw/master/JSON/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
-	"jar":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/jar/fan.txt"},        
+	"jar":"https://raw.github.com/qist/tvbox/refs/heads/master/jar/fan.txt"},        
      
 {"key":"PanSearch",
 	"name":"盘搜┃阿里云盘",
@@ -236,6 +236,12 @@
 		"type": 3,
 		"url": "Demo"
 	},
+	{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
+{"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
+
 	{
             "name": "推荐",
             "type": 1,
