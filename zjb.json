@@ -32,7 +32,7 @@
 
 
 
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺┃官源","type":3,"api":"https://gitee.com/hnzjb/tvplayer/raw/master/JSON/lib/drpy2.min.js","ext":"https://gitee.com/hnzjb/tvplayer/raw/master/JSON/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
+{"key":"drpy_js_奇珍异兽","name":"爱奇艺┃官源","type":3,"api":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","ext":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
 	"jar":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
 
 
