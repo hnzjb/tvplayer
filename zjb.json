@@ -23,20 +23,26 @@
        },
 	
 
- {"key":"萌米","name":"天天┃多线","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg==",
-	"jar":"https://raw.github.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
+{"key":"萌米",
+"name":"天天┃多线",
+"type":3,
+"api":"csp_AppTTGuard",
+"playerType":2,
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg==",
+"jar":"https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/otherjar/fan.txt"},
 
 
-{"key":"糯米","name":"糯米┃秒播","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1,
-	"jar":"https://raw.github.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
+{"key":"糯米",
+"name":"糯米┃秒播",
+"type":3,
+"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1,
+"jar":"https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/otherjar/fan.txt"},
 
 
 
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺┃官源","type":3,"api":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
-	"jar":"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
-
-
-        
 {
             "key": "木耳",
             "name": "木耳┃影视",
@@ -191,8 +197,14 @@
                 "danmu": true
             },  
         "jar":"https://gitee.com/hnzjb/tvplayer/raw/master/JAR/PizazzGY.jar"},
-{"key":"drpy_js_奇珍异兽","name":"爱奇艺┃官源","type":3,"api":"https://gitee.com/hnzjb/tvplayer/raw/master/JSON/lib/drpy2.min.js","ext":"https://gitee.com/hnzjb/tvplayer/raw/master/JSON/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
-	"jar":"https://raw.github.com/qist/tvbox/refs/heads/master/jar/fan.txt"},        
+
+{"key":"drpy_js_奇珍异兽",
+"name":"爱奇艺┃官源",
+"type":3,
+"api":"https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/otherjar/drpy2.min.js",
+"ext":"https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/otherjar/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
+"jar":"https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/otherjar/fan.txt"},
+   
      
 {"key":"PanSearch",
 	"name":"盘搜┃阿里云盘",
