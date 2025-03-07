@@ -41,7 +41,8 @@
 "api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1,
 "jar":"https://raw.github.com/hnzjb/tvplayer/refs/heads/main/otherjar/fan.txt"},
 
-
+{"key":"神车","name":"神车┃秒播","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9",
+"jar":"https://raw.github.com/hnzjb/tvplayer/refs/heads/main/otherjar/fan.txt"},
 
 {
             "key": "木耳",
