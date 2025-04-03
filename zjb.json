@@ -64,21 +64,7 @@
             "filterable": 0,
             "ext": "http://v.lkuys.cn"
         },
-        {
-            "key": "追剧弹幕",
-            "name": "追剧｜弹幕",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/追剧弹幕.js"
-        },
         
-        {
-            "key": "三六零",
-            "name": "三六零｜弹幕",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/三六零弹幕.js"
-        },
         
         
         {
@@ -796,47 +782,7 @@
             ]
         }
     ],
-    "lives": [
-        {
-            "name": "AI直播",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "电视Live",
-            "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "网络Live",
-            "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Live",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "范明明",
-            "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "APTV",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 10,
-            "playerType": 2
-        }
-    ],
+    
     "hosts": [
         "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
