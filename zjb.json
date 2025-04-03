@@ -438,7 +438,20 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        
+        {
+            "key": "聚搜",
+            "name": "聚搜｜4K",
+            "type": 3,
+            "api": "csp_PanWebSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "https://gitee.com/hnzjb/tvplayer/raw/master/JSON/aliyunpansearch.json"
+        },
         
         {
             "key": "push_agent",
