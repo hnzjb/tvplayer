@@ -99,7 +99,14 @@
             "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
         },
         
-       
+       {
+            "key": "玉米",
+            "name": "玉米｜APP",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
+        },
         
         {
             "key": "米兔",
@@ -144,14 +151,7 @@
             "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
         },
         
-        {
-            "key": "玉米",
-            "name": "玉米｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
-        },
+        
         
         {
             "key": "木叶",
@@ -325,7 +325,23 @@
         },
         
         
-       
+       {
+            "key": "腾讯弹幕",
+            "name": "腾讯｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/hnzjb/tvplayer/raw/master/LIB/drpy2.min.js",
+            "ext": "https://gitee.com/hnzjb/tvplayer/raw/master/JS/%E8%85%BE%E8%AE%AF%E5%BC%B9%E5%B9%95.js"
+        },
+
+
+
+{
+            "key": "芒果弹幕",
+            "name": "芒果｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/hnzjb/tvplayer/raw/master/LIB/drpy2.min.js",
+            "ext": "https://gitee.com/hnzjb/tvplayer/raw/master/JS/%E8%8A%92%E6%9E%9C%E5%BC%B9%E5%B9%95.js"
+        },
         
         {
             "key": "光速资源",
