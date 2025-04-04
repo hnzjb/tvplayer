@@ -325,22 +325,13 @@
         },
         
         
-       {
-            "key": "腾讯视频",
-            "name": "腾讯｜视频",
-            "type": 3,
-            "api": "https://gitee.com/hnzjb/tvplayer/raw/master/LIB/drpy2.min.js",
-            "ext": "https://gitee.com/hnzjb/tvplayer/raw/master/JS/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"
-        },
-
-
-{
-            "key": "芒果视频",
-            "name": "芒果｜视频",
-            "type": 3,
-            "api": "https://gitee.com/hnzjb/tvplayer/raw/master/LIB/drpy2.min.js",
-            "ext": "https://gitee.com/hnzjb/tvplayer/raw/master/JS/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
-        },
+{"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"https://gitee.com/hnzjb/tvplayer/raw/master/LIB/drpy2.min.js","ext":"https://gitee.com/hnzjb/tvplayer/raw/master/JS/360%E5%BD%B1%E8%A7%86.js","jar":"https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/fan.txt"},
+{"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"https://gitee.com/hnzjb/tvplayer/raw/master/LIB/drpy2.min.js","ext":"https://gitee.com/hnzjb/tvplayer/raw/master/JS/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js","jar":"https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/fan.txt"},
+{"key":"drpy_js_百忙无果","name":"官源┃芒果[js]","type":3,"api":"https://gitee.com/hnzjb/tvplayer/raw/master/LIB/drpy2.min.js","ext":"https://gitee.com/hnzjb/tvplayer/raw/master/JS/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js","jar":"https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/fan.txt"},
+{"key":"drpy_js_腾云驾雾","name":"官源┃腾讯[js]","type":3,"api":"https://gitee.com/hnzjb/tvplayer/raw/master/LIB/drpy2.min.js","ext":"https://gitee.com/hnzjb/tvplayer/raw/master/JS/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js","jar":"https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/fan.txt"},
+{"key":"夸搜","name":"😻夸搜┃夸父","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/fan.txt"},
+{"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/fan.txt"},
+   
         
         {
             "key": "光速资源",
