@@ -35,34 +35,14 @@
                 "ratio": 1.597
             }
         },
-
 {
-            "key": "腾讯视频",
-            "name": "腾讯｜视频",
+            "key": "瓜子影视",
+            "name": "瓜子｜影视",
             "type": 3,
-            "api": "https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/js/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/js/腾讯视频.js"
-        },
-        {
-            "key": "优酷视频",
-            "name": "优酷｜视频",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/js/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/js/优酷视频.js"
-        },
-        {
-            "key": "芒果视频",
-            "name": "芒果｜视频",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/js/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/js/芒果视频.js"
-        },
-        {
-            "key": "爱奇艺",
-            "name": "爱奇艺｜视频",
-            "type": 3,
-            "api": "https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/js/drpy2.min.js",
-            "ext": "https://raw.kkgithub.com/hnzjb/tvplayer/refs/heads/main/js/爱奇艺.js"
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "三六零",
