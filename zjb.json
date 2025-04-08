@@ -1,10 +1,10 @@
 {
-    "spider": "https://raw.kkgithub.com/hnzjb/tvbox/refs/heads/master/xiaosa/spider.jar",
+    "spider": "https://raw.staticdn.net/hnzjb/tvbox/refs/heads/master/xiaosa/spider.jar",
 
 	
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
-            "url": "https://raw.kkgithub.com/hnzjb/tvplayer/main/live.txt",
+            "url": "https://raw.staticdn.net/hnzjb/tvplayer/main/live.txt",
 
 
 
@@ -325,8 +325,8 @@
         },
         
         
-{"key":"夸搜","name":"😻夸搜┃夸父","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
-{"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.kkgithub.com/qist/tvbox/refs/heads/master/jar/fan.txt"},
+{"key":"夸搜","name":"😻夸搜┃夸父","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.staticdn.net/qist/tvbox/refs/heads/master/jar/fan.txt"},
+{"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.staticdn.net/qist/tvbox/refs/heads/master/jar/fan.txt"},
    
         
         {
