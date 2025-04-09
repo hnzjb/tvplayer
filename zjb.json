@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitee.com/hnzjb/tvbox/raw/master/xiaosa/spider.jar",
+    "spider": "https://raw.staticdn.net/hnzjb/tvbox/refs/heads/master/xiaosa/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "live",
             "url": "https://raw.staticdn.net/hnzjb/tvplayer/main/live.txt",
