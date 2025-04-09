@@ -35,23 +35,7 @@
                 "ratio": 1.597
             }
         },
-{
-            "key": "瓜子影视",
-            "name": "瓜子｜影视",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
-            "key": "三六零",
-            "name": "三六零｜视频",
-            "type": 3,
-            "api": "csp_SP360"
-        },
-
-	{
             "key": "热播影视",
             "name": "热播｜影视",
             "type": 3,
@@ -80,6 +64,7 @@
             "filterable": 0,
             "ext": "http://v.lkuys.cn"
         },
+        
         
         
         {
@@ -114,14 +99,7 @@
             "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
         },
         
-       {
-            "key": "玉米",
-            "name": "玉米｜APP",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
-        },
+       
         
         {
             "key": "米兔",
@@ -166,7 +144,14 @@
             "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
         },
         
-        
+        {
+            "key": "玉米",
+            "name": "玉米｜APP",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
+        },
         
         {
             "key": "木叶",
@@ -212,6 +197,7 @@
             "changeable": 1,
             "ext": "http://kkwk123.top/api.php/app/"
         },
+        
         {
             "key": "厂长影视",
             "name": "厂长｜影视",
@@ -236,13 +222,6 @@
             "type": 3,
             "api": "csp_Siren"
         },
-{
-            "key": "奇优影视",
-            "name": "奇优｜影视",
-            "type": 3,
-            "api": "csp_Qiyou"
-        },
-	    
         {
             "key": "云播影视",
             "name": "云播｜影视",
@@ -345,27 +324,14 @@
             "ext": "w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw=="
         },
         
+  {
+            "key": "奇优影视",
+            "name": "奇优｜影视",
+            "type": 3,
+            "api": "csp_Qiyou"
+        },
+       
         
-{"key":"夸搜","name":"😻夸搜┃夸父","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.staticdn.net/qist/tvbox/refs/heads/master/jar/fan.txt"},
-{"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.staticdn.net/qist/tvbox/refs/heads/master/jar/fan.txt"},
- {
-            "key": "荐片",
-            "name": "荐片｜磁力",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": 1,
-            "ext": "http://api2.rinhome.com"
-        },
-	    {
-            "key": "New6v",
-            "name": "New6V｜磁力",
-            "type": 3,
-            "api": "csp_New6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.xb6v.com"
-        },
         {
             "key": "光速资源",
             "name": "光速｜采集",
@@ -465,7 +431,24 @@
         },
         
         
-        
+        {
+            "key": "荐片",
+            "name": "荐片｜磁力",
+            "api": "csp_Jianpian",
+            "type": 3,
+            "playerType": 1,
+            "ext": "http://api2.rinhome.com"
+        },
+	    {
+            "key": "New6v",
+            "name": "New6V｜磁力",
+            "type": 3,
+            "api": "csp_New6v",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xb6v.com"
+        },
         
         
         {
@@ -477,6 +460,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        
         {
             "key": "聚搜",
             "name": "聚搜｜4K",
@@ -491,7 +475,6 @@
             },
             "ext": "https://gitee.com/hnzjb/tvplayer/raw/master/JSON/aliyunpansearch.json"
         },
-        
         {
             "key": "push_agent",
             "name": "手机｜推送",
@@ -533,12 +516,31 @@
             }
         },
         {
-            "name": "淘片",
-            "type": 0,
-            "url": "https://jx.yparse.com/index.php?url=",
+            "name": "羊羊",
+            "type": 1,
+            "url": "http://117.50.184.199:94/api.php/?key=1&url=",
             "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
                 "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                    "User-Agent": "okhttp/4.9.1"
                 }
             }
         },
@@ -662,7 +664,16 @@
                 }
             }
         },
-        
+        {
+            "name": "淘片",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
         {
             "name": "冰豆",
             "type": 0,
