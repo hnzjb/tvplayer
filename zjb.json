@@ -332,6 +332,9 @@
         },
        
         
+{"key":"夸搜","name":"😻夸搜┃夸父","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.staticdn.net/qist/tvbox/refs/heads/master/jar/fan.txt"},
+{"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://raw.staticdn.net/qist/tvbox/refs/heads/master/jar/fan.txt"},
+         
         {
             "key": "光速资源",
             "name": "光速｜采集",
