@@ -11,14 +11,7 @@
             "ua": "okhttp/3.12.13",
             "epg": "https://epg.11416.xyz/?ch={name}&date={date} ",
             "logo": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogoALL/{name}.png"
-	    },
-	{
-            "name": "范明明",
-            "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "timeout": 10
-        }
+	    }
 ],
     "sites": [
         {
