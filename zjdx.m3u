@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="" tvg-name="浙江民生" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/MSXX.png" group-title="浙江",浙江民生
 rtp://233.50.201.136:5140
 #EXTINF:-1 tvg-id="" tvg-name="浙江钱江都市" tvg-logo="https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/zhejiang/QJPD.png" group-title="浙江",浙江钱江都市
