@@ -15,7 +15,7 @@
 	{
             "name": "浙江电信",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/zjdx.m3u",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/zjdx.m3u",
             "playerType": 2,
             "timeout": 10
         }
