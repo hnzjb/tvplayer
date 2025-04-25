@@ -11,7 +11,14 @@
             "ua": "okhttp/3.12.13",
             "epg": "https://epg.11416.xyz/?ch={name}&date={date} ",
             "logo": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogoALL/{name}.png"
-	    }
+	    },
+	{
+            "name": "浙江电信",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/zjdx.m3u",
+            "playerType": 2,
+            "timeout": 10
+        }
 ],
     "sites": [
         {
