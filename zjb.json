@@ -1,8 +1,30 @@
 {
     "spider": "https://gitee.com/hnzjb/tvplayer/raw/master/JAR/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
-"lives": [{"name": "live",
-            "url": "https://raw.staticdn.net/hnzjb/tvplayer/main/live.txt",
+"lives": [{"name": "浙江移动",
+            "url": "https://raw.staticdn.net/hnzjb/tvplayer/main/浙江移动.txt",
+
+
+
+            "type": 0,
+            "playerType": 1,
+            "ua": "okhttp/3.12.13",
+            "epg": "https://live.fanmingming.cn/e.xml ",
+            "logo": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogoALL/{name}.png"
+	    },
+	{"name": "浙江电信",
+            "url": "https://raw.staticdn.net/hnzjb/tvplayer/main/浙江电信.txt",
+
+
+
+            "type": 0,
+            "playerType": 1,
+            "ua": "okhttp/3.12.13",
+            "epg": "https://live.fanmingming.cn/e.xml ",
+            "logo": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogoALL/{name}.png"
+	    },
+	{"name": "黑龙江移动",
+            "url": "https://raw.staticdn.net/hnzjb/tvplayer/main/黑龙江移动.txt",
 
 
 
