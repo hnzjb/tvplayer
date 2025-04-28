@@ -2,7 +2,7 @@
     "spider": "https://gitee.com/hnzjb/tvplayer/raw/master/JAR/spider.jar",
 "wallpaper": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogo/%E7%81%AF%E5%A1%94.jpg",
 "lives": [{"name": "浙江移动",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/%E6%B5%99%E6%B1%9F%E7%A7%BB%E5%8A%A8.txt",
+            "url": "https://gh-proxy.com/https://raw.github.com/hnzjb/tvplayer/refs/heads/main/%E6%B5%99%E6%B1%9F%E7%A7%BB%E5%8A%A8.txt",
 
 
 
@@ -13,7 +13,7 @@
             "logo": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogoALL/{name}.png"
 	    },
 	{"name": "浙江电信",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1.txt",
+            "url": "https://gh-proxy.com/https://raw.github.com/hnzjb/tvplayer/refs/heads/main/%E6%B5%99%E6%B1%9F%E7%94%B5%E4%BF%A1.txt",
 
 
 
@@ -24,7 +24,7 @@
             "logo": "https://gitee.com/hnzjb/tvplayer/raw/master/TVlogoALL/{name}.png"
 	    },
 	{"name": "黑龙江移动",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hnzjb/tvplayer/refs/heads/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%A7%BB%E5%8A%A8.txt",
+            "url": "https://gh-proxy.com/https://raw.github.com/hnzjb/tvplayer/refs/heads/main/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%A7%BB%E5%8A%A8.txt",
 
 
 
@@ -58,14 +58,17 @@
                 "ratio": 1.597
             }
         },
-        {
+         {
             "key": "热播影视",
             "name": "热播｜影视",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
         },
         {
             "key": "天天影视",
@@ -75,7 +78,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://tt.ysdqjs.cn"
+            "ext": {
+                "url": "http://tt.ysdqjs.cn"
+            }
         },
         {
             "key": "浪酷影视",
@@ -85,7 +90,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://v.lkuys.cn"
+            "ext": {
+                "url": "http://v.lkuys.cn"
+            }
         },
         
         
