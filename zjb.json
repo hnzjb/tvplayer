@@ -110,14 +110,7 @@
         
        
         
-        {
-            "key": "木头",
-            "name": "木头｜APP",
-            "type": 3,
-            "api": "csp_Shark",
-            "playerType": 1,
-            "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
-        },
+        
         
         
         {
@@ -251,17 +244,7 @@
             "api": "csp_SuBaiBai",
             "ext": "https://www.subaibai.com"
         },
-        {
-            "key": "厂长影视",
-            "name": "厂长｜影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.czzyvideo.com"
-        },
+       {"key":"厂长","name":"📔厂长┃影视","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.staticdn.net/qist/tvbox/refs/heads/master/jar/fan.txt"},
         {
             "key": "糯米影视",
             "name": "糯米┃影视",
@@ -335,26 +318,7 @@
             "filterable": 1
         },
         
-        {
-            "key": "来看影视",
-            "name": "来看｜影视",
-            "type": 3,
-            "api": "csp_Lkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         
-        
-        {
-            "key": "爱看机器人",
-            "name": "爱看｜影视",
-            "type": 3,
-            "api": "csp_IkanBot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         
         {
             "key": "一起影视",
