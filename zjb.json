@@ -244,8 +244,18 @@
             "api": "csp_SuBaiBai",
             "ext": "https://www.subaibai.com"
         },
-       {"key":"厂长","name":"📔厂长┃影视","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.staticdn.net/qist/tvbox/refs/heads/master/jar/fan.txt"},
-        {
+       {
+            "key": "厂长影视",
+            "name": "厂长｜影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.czzymovie.com/"
+        },
+	    {
             "key": "糯米影视",
             "name": "糯米┃影视",
             "type": 3,
