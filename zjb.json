@@ -75,12 +75,7 @@
             }
         },
                
-         {
-            "key": "云播影视",
-            "name": "云播｜影视",
-            "type": 3,
-            "api": "csp_Tvyb"
-        },
+         
         
         {
             "key": "苹果",
@@ -103,51 +98,19 @@
             }
         },
         
-   {
-            "key": "久久",
-            "name": "久久｜APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://99cms.jj99.icu:8199/api.php/app/"
-        },
+  
 
-{
-            "key": "顾我99",
-            "name": "顾我丨APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://117.50.200.113:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "040f9b1bc5e942569b5c3e63943306ab",
-                "versionName": "4.3.1",
-                "name": "顾我追剧",
-                "package": "com.guwozhuijux.app",
-                "buildNumber": "2001",
-                "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
-            }
-        },
 
-{
-            "key": "三秋影视",
-            "name": "三秋｜APP",
-            "type": 3,
-            "api": "csp_App3Q"
-        },
+{"key": "蓝鹰",
+	"name": "蓝鹰 • APP",
+	"type": 3,
+	"api": "csp_AppQi",
+	"searchable": 1,
+	"changeable": 1,
+	"ext": {"url": "http://103.217.190.91:5566","dataKey": "hagYExMdMkeWfemK","dataIv": "hagYExMdMkeWfemK","init": "initV122","ua": "okhttp/3.10.0"}},
 
-{
-            "key": "飞飞",
-            "name": "飞飞丨APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://qpcj.69mini.com/api.php/app/"
-        },
+
+
 
 {
             "key": "瓜子影视",
@@ -186,24 +149,19 @@
         },     
  
         
-  {
-            "key": "奇优影视",
-            "name": "奇优｜影视",
-            "type": 3,
-            "api": "csp_Qiyou"
-        },
+    {"key": "独播影视",
+		"name": "独播 • 影视",
+		"type": 3,
+		"api": "csp_Duboku"},
        
    
          
+  {"key": "荐片",
+	  "name": "荐片 • 磁力",
+	  "api": "csp_JianPian",
+	  "type": 3},
 
-
-     {
-            "key": "农民影视",
-            "name": "农民｜影视",
-            "type": 3,
-            "api": "csp_Wwys",
-            "ext": "https://vip.wwgz.cn:5200"
-        },   
+     
         
    
         {
